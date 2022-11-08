@@ -15,181 +15,181 @@
     "NUTS3_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "SPEI3": -4,
-    "PredictedProb": "0,784"
+    "PredictedProb": 0.784
   },
   {
     "NUTS3_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "SPEI3": -3,
-    "PredictedProb": "0,299"
+    "PredictedProb": 0.299
   },
   {
     "NUTS3_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "SPEI3": -2,
-    "PredictedProb": "0,048"
+    "PredictedProb": 0.048
   },
   {
     "NUTS3_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "SPEI3": -4,
-    "PredictedProb": "0,490"
+    "PredictedProb": 0.49
   },
   {
     "NUTS3_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "SPEI3": -3,
-    "PredictedProb": "0,247"
+    "PredictedProb": 0.247
   },
   {
     "NUTS3_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "SPEI3": -2,
-    "PredictedProb": "0,101"
+    "PredictedProb": 0.101
   },
   {
     "NUTS3_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "SPEI3": -1,
-    "PredictedProb": "0,037"
+    "PredictedProb": 0.037
   },
   {
     "NUTS3_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "SPEI3": 0,
-    "PredictedProb": "0,013"
+    "PredictedProb": 0.013
   },
   {
     "NUTS3_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "SPEI3": -4,
-    "PredictedProb": "0,100"
+    "PredictedProb": 0.1
   },
   {
     "NUTS3_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "SPEI3": -3,
-    "PredictedProb": "0,058"
+    "PredictedProb": 0.058
   },
   {
     "NUTS3_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "SPEI3": -2,
-    "PredictedProb": "0,033"
+    "PredictedProb": 0.033
   },
   {
     "NUTS3_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "SPEI3": -1,
-    "PredictedProb": "0,018"
+    "PredictedProb": 0.018
   },
   {
     "NUTS3_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "SPEI3": 0,
-    "PredictedProb": "0,010"
+    "PredictedProb": 0.01
   },
   {
     "NUTS3_ID": "AT123",
     "NUTS_NAME": "Sankt Pölten",
     "SPEI3": -4,
-    "PredictedProb": "0,108"
+    "PredictedProb": 0.108
   },
   {
     "NUTS3_ID": "AT123",
     "NUTS_NAME": "Sankt Pölten",
     "SPEI3": -3,
-    "PredictedProb": "0,045"
+    "PredictedProb": 0.045
   },
   {
     "NUTS3_ID": "AT123",
     "NUTS_NAME": "Sankt Pölten",
     "SPEI3": -2,
-    "PredictedProb": "0,018"
+    "PredictedProb": 0.018
   },
   {
     "NUTS3_ID": "AT123",
     "NUTS_NAME": "Sankt Pölten",
     "SPEI3": -1,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   },
   {
     "NUTS3_ID": "AT123",
     "NUTS_NAME": "Sankt Pölten",
     "SPEI3": 0,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "SPEI3": -4,
-    "PredictedProb": "0,968"
+    "PredictedProb": 0.968
   },
   {
     "NUTS3_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "SPEI3": -3,
-    "PredictedProb": "0,834"
+    "PredictedProb": 0.834
   },
   {
     "NUTS3_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "SPEI3": -2,
-    "PredictedProb": "0,452"
+    "PredictedProb": 0.452
   },
   {
     "NUTS3_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "SPEI3": -1,
-    "PredictedProb": "0,119"
+    "PredictedProb": 0.119
   },
   {
     "NUTS3_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "SPEI3": 0,
-    "PredictedProb": "0,022"
+    "PredictedProb": 0.022
   },
   {
     "NUTS3_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "SPEI3": -4,
-    "PredictedProb": "0,976"
+    "PredictedProb": 0.976
   },
   {
     "NUTS3_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "SPEI3": -3,
-    "PredictedProb": "0,833"
+    "PredictedProb": 0.833
   },
   {
     "NUTS3_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "SPEI3": -2,
-    "PredictedProb": "0,378"
+    "PredictedProb": 0.378
   },
   {
     "NUTS3_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "SPEI3": -1,
-    "PredictedProb": "0,069"
+    "PredictedProb": 0.069
   },
   {
     "NUTS3_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "AT126",
@@ -201,61 +201,61 @@
     "NUTS3_ID": "AT127",
     "NUTS_NAME": "Wiener Umland/Südteil",
     "SPEI3": -4,
-    "PredictedProb": "0,958"
+    "PredictedProb": 0.958
   },
   {
     "NUTS3_ID": "AT127",
     "NUTS_NAME": "Wiener Umland/Südteil",
     "SPEI3": -3,
-    "PredictedProb": "0,670"
+    "PredictedProb": 0.67
   },
   {
     "NUTS3_ID": "AT127",
     "NUTS_NAME": "Wiener Umland/Südteil",
     "SPEI3": -2,
-    "PredictedProb": "0,155"
+    "PredictedProb": 0.155
   },
   {
     "NUTS3_ID": "AT127",
     "NUTS_NAME": "Wiener Umland/Südteil",
     "SPEI3": -1,
-    "PredictedProb": "0,016"
+    "PredictedProb": 0.016
   },
   {
     "NUTS3_ID": "AT127",
     "NUTS_NAME": "Wiener Umland/Südteil",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "AT130",
     "NUTS_NAME": "Wien",
     "SPEI3": -4,
-    "PredictedProb": "0,093"
+    "PredictedProb": 0.093
   },
   {
     "NUTS3_ID": "AT130",
     "NUTS_NAME": "Wien",
     "SPEI3": -3,
-    "PredictedProb": "0,040"
+    "PredictedProb": 0.04
   },
   {
     "NUTS3_ID": "AT130",
     "NUTS_NAME": "Wien",
     "SPEI3": -2,
-    "PredictedProb": "0,016"
+    "PredictedProb": 0.016
   },
   {
     "NUTS3_ID": "AT130",
     "NUTS_NAME": "Wien",
     "SPEI3": -1,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   },
   {
     "NUTS3_ID": "AT130",
     "NUTS_NAME": "Wien",
     "SPEI3": 0,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "AT211",
@@ -267,91 +267,91 @@
     "NUTS3_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "SPEI3": -4,
-    "PredictedProb": "0,234"
+    "PredictedProb": 0.234
   },
   {
     "NUTS3_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "SPEI3": -3,
-    "PredictedProb": "0,101"
+    "PredictedProb": 0.101
   },
   {
     "NUTS3_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "SPEI3": -2,
-    "PredictedProb": "0,040"
+    "PredictedProb": 0.04
   },
   {
     "NUTS3_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "SPEI3": -1,
-    "PredictedProb": "0,015"
+    "PredictedProb": 0.015
   },
   {
     "NUTS3_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "SPEI3": 0,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "SPEI3": -4,
-    "PredictedProb": "0,332"
+    "PredictedProb": 0.332
   },
   {
     "NUTS3_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "SPEI3": -3,
-    "PredictedProb": "0,162"
+    "PredictedProb": 0.162
   },
   {
     "NUTS3_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "SPEI3": -2,
-    "PredictedProb": "0,070"
+    "PredictedProb": 0.07
   },
   {
     "NUTS3_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "SPEI3": -1,
-    "PredictedProb": "0,029"
+    "PredictedProb": 0.029
   },
   {
     "NUTS3_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "SPEI3": 0,
-    "PredictedProb": "0,011"
+    "PredictedProb": 0.011
   },
   {
     "NUTS3_ID": "AT221",
     "NUTS_NAME": "Graz",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "AT221",
     "NUTS_NAME": "Graz",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "AT221",
     "NUTS_NAME": "Graz",
     "SPEI3": -2,
-    "PredictedProb": "0,066"
+    "PredictedProb": 0.066
   },
   {
     "NUTS3_ID": "AT221",
     "NUTS_NAME": "Graz",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT221",
     "NUTS_NAME": "Graz",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT222",
@@ -369,181 +369,181 @@
     "NUTS3_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "SPEI3": -3,
-    "PredictedProb": "0,990"
+    "PredictedProb": 0.99
   },
   {
     "NUTS3_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "SPEI3": -2,
-    "PredictedProb": "0,178"
+    "PredictedProb": 0.178
   },
   {
     "NUTS3_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "SPEI3": -3,
-    "PredictedProb": "0,995"
+    "PredictedProb": 0.995
   },
   {
     "NUTS3_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "SPEI3": -2,
-    "PredictedProb": "0,167"
+    "PredictedProb": 0.167
   },
   {
     "NUTS3_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "SPEI3": -4,
-    "PredictedProb": "0,276"
+    "PredictedProb": 0.276
   },
   {
     "NUTS3_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "SPEI3": -3,
-    "PredictedProb": "0,129"
+    "PredictedProb": 0.129
   },
   {
     "NUTS3_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "SPEI3": -2,
-    "PredictedProb": "0,055"
+    "PredictedProb": 0.055
   },
   {
     "NUTS3_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "SPEI3": -1,
-    "PredictedProb": "0,022"
+    "PredictedProb": 0.022
   },
   {
     "NUTS3_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "SPEI3": -4,
-    "PredictedProb": "0,973"
+    "PredictedProb": 0.973
   },
   {
     "NUTS3_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "SPEI3": -3,
-    "PredictedProb": "0,795"
+    "PredictedProb": 0.795
   },
   {
     "NUTS3_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "SPEI3": -2,
-    "PredictedProb": "0,292"
+    "PredictedProb": 0.292
   },
   {
     "NUTS3_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "SPEI3": -1,
-    "PredictedProb": "0,042"
+    "PredictedProb": 0.042
   },
   {
     "NUTS3_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "SPEI3": 0,
-    "PredictedProb": "0,005"
+    "PredictedProb": 0.005
   },
   {
     "NUTS3_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "SPEI3": -4,
-    "PredictedProb": "0,937"
+    "PredictedProb": 0.937
   },
   {
     "NUTS3_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "SPEI3": -3,
-    "PredictedProb": "0,690"
+    "PredictedProb": 0.69
   },
   {
     "NUTS3_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "SPEI3": -2,
-    "PredictedProb": "0,248"
+    "PredictedProb": 0.248
   },
   {
     "NUTS3_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "SPEI3": -1,
-    "PredictedProb": "0,047"
+    "PredictedProb": 0.047
   },
   {
     "NUTS3_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "SPEI3": 0,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   },
   {
     "NUTS3_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "SPEI3": -4,
-    "PredictedProb": "0,747"
+    "PredictedProb": 0.747
   },
   {
     "NUTS3_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "SPEI3": -3,
-    "PredictedProb": "0,468"
+    "PredictedProb": 0.468
   },
   {
     "NUTS3_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "SPEI3": -2,
-    "PredictedProb": "0,208"
+    "PredictedProb": 0.208
   },
   {
     "NUTS3_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "SPEI3": -1,
-    "PredictedProb": "0,073"
+    "PredictedProb": 0.073
   },
   {
     "NUTS3_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "SPEI3": 0,
-    "PredictedProb": "0,023"
+    "PredictedProb": 0.023
   },
   {
     "NUTS3_ID": "AT314",
@@ -555,121 +555,121 @@
     "NUTS3_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "SPEI3": -4,
-    "PredictedProb": "0,953"
+    "PredictedProb": 0.953
   },
   {
     "NUTS3_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "SPEI3": -3,
-    "PredictedProb": "0,631"
+    "PredictedProb": 0.631
   },
   {
     "NUTS3_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "SPEI3": -2,
-    "PredictedProb": "0,127"
+    "PredictedProb": 0.127
   },
   {
     "NUTS3_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "SPEI3": -1,
-    "PredictedProb": "0,012"
+    "PredictedProb": 0.012
   },
   {
     "NUTS3_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "SPEI3": -3,
-    "PredictedProb": "0,993"
+    "PredictedProb": 0.993
   },
   {
     "NUTS3_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "SPEI3": -2,
-    "PredictedProb": "0,285"
+    "PredictedProb": 0.285
   },
   {
     "NUTS3_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "SPEI3": -1,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "SPEI3": -2,
-    "PredictedProb": "0,765"
+    "PredictedProb": 0.765
   },
   {
     "NUTS3_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "SPEI3": -4,
-    "PredictedProb": "0,998"
+    "PredictedProb": 0.998
   },
   {
     "NUTS3_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "SPEI3": -3,
-    "PredictedProb": "0,967"
+    "PredictedProb": 0.967
   },
   {
     "NUTS3_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "SPEI3": -2,
-    "PredictedProb": "0,642"
+    "PredictedProb": 0.642
   },
   {
     "NUTS3_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "SPEI3": -1,
-    "PredictedProb": "0,099"
+    "PredictedProb": 0.099
   },
   {
     "NUTS3_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "SPEI3": 0,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   },
   {
     "NUTS3_ID": "AT331",
@@ -681,31 +681,31 @@
     "NUTS3_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "SPEI3": -4,
-    "PredictedProb": "0,995"
+    "PredictedProb": 0.995
   },
   {
     "NUTS3_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "SPEI3": -3,
-    "PredictedProb": "0,906"
+    "PredictedProb": 0.906
   },
   {
     "NUTS3_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "SPEI3": -2,
-    "PredictedProb": "0,305"
+    "PredictedProb": 0.305
   },
   {
     "NUTS3_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "SPEI3": -1,
-    "PredictedProb": "0,020"
+    "PredictedProb": 0.02
   },
   {
     "NUTS3_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "AT333",
@@ -717,151 +717,151 @@
     "NUTS3_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "SPEI3": -4,
-    "PredictedProb": "0,946"
+    "PredictedProb": 0.946
   },
   {
     "NUTS3_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "SPEI3": -3,
-    "PredictedProb": "0,663"
+    "PredictedProb": 0.663
   },
   {
     "NUTS3_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "SPEI3": -2,
-    "PredictedProb": "0,182"
+    "PredictedProb": 0.182
   },
   {
     "NUTS3_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "SPEI3": -1,
-    "PredictedProb": "0,025"
+    "PredictedProb": 0.025
   },
   {
     "NUTS3_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "SPEI3": 0,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "SPEI3": -4,
-    "PredictedProb": "0,996"
+    "PredictedProb": 0.996
   },
   {
     "NUTS3_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "SPEI3": -3,
-    "PredictedProb": "0,892"
+    "PredictedProb": 0.892
   },
   {
     "NUTS3_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "SPEI3": -2,
-    "PredictedProb": "0,217"
+    "PredictedProb": 0.217
   },
   {
     "NUTS3_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "SPEI3": -1,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "SPEI3": -4,
-    "PredictedProb": "0,987"
+    "PredictedProb": 0.987
   },
   {
     "NUTS3_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "SPEI3": -3,
-    "PredictedProb": "0,819"
+    "PredictedProb": 0.819
   },
   {
     "NUTS3_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "SPEI3": -2,
-    "PredictedProb": "0,219"
+    "PredictedProb": 0.219
   },
   {
     "NUTS3_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "SPEI3": -1,
-    "PredictedProb": "0,017"
+    "PredictedProb": 0.017
   },
   {
     "NUTS3_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "AT342",
     "NUTS_NAME": "Rheintal-Bodenseegebiet",
     "SPEI3": -4,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT342",
     "NUTS_NAME": "Rheintal-Bodenseegebiet",
     "SPEI3": -3,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT342",
     "NUTS_NAME": "Rheintal-Bodenseegebiet",
     "SPEI3": -2,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT342",
     "NUTS_NAME": "Rheintal-Bodenseegebiet",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "AT342",
     "NUTS_NAME": "Rheintal-Bodenseegebiet",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "SPEI3": -4,
-    "PredictedProb": "0,910"
+    "PredictedProb": 0.91
   },
   {
     "NUTS3_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "SPEI3": -3,
-    "PredictedProb": "0,677"
+    "PredictedProb": 0.677
   },
   {
     "NUTS3_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "SPEI3": -2,
-    "PredictedProb": "0,302"
+    "PredictedProb": 0.302
   },
   {
     "NUTS3_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "SPEI3": -1,
-    "PredictedProb": "0,082"
+    "PredictedProb": 0.082
   },
   {
     "NUTS3_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "SPEI3": 0,
-    "PredictedProb": "0,018"
+    "PredictedProb": 0.018
   },
   {
     "NUTS3_ID": "CH012",
@@ -873,301 +873,301 @@
     "NUTS3_ID": "CH013",
     "NUTS_NAME": "Genève",
     "SPEI3": -4,
-    "PredictedProb": "0,770"
+    "PredictedProb": 0.77
   },
   {
     "NUTS3_ID": "CH013",
     "NUTS_NAME": "Genève",
     "SPEI3": -3,
-    "PredictedProb": "0,386"
+    "PredictedProb": 0.386
   },
   {
     "NUTS3_ID": "CH013",
     "NUTS_NAME": "Genève",
     "SPEI3": -2,
-    "PredictedProb": "0,106"
+    "PredictedProb": 0.106
   },
   {
     "NUTS3_ID": "CH013",
     "NUTS_NAME": "Genève",
     "SPEI3": -1,
-    "PredictedProb": "0,022"
+    "PredictedProb": 0.022
   },
   {
     "NUTS3_ID": "CH013",
     "NUTS_NAME": "Genève",
     "SPEI3": 0,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "CH021",
     "NUTS_NAME": "Bern",
     "SPEI3": -4,
-    "PredictedProb": "0,946"
+    "PredictedProb": 0.946
   },
   {
     "NUTS3_ID": "CH021",
     "NUTS_NAME": "Bern",
     "SPEI3": -3,
-    "PredictedProb": "0,771"
+    "PredictedProb": 0.771
   },
   {
     "NUTS3_ID": "CH021",
     "NUTS_NAME": "Bern",
     "SPEI3": -2,
-    "PredictedProb": "0,390"
+    "PredictedProb": 0.39
   },
   {
     "NUTS3_ID": "CH021",
     "NUTS_NAME": "Bern",
     "SPEI3": -1,
-    "PredictedProb": "0,109"
+    "PredictedProb": 0.109
   },
   {
     "NUTS3_ID": "CH021",
     "NUTS_NAME": "Bern",
     "SPEI3": 0,
-    "PredictedProb": "0,023"
+    "PredictedProb": 0.023
   },
   {
     "NUTS3_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "SPEI3": -4,
-    "PredictedProb": "0,775"
+    "PredictedProb": 0.775
   },
   {
     "NUTS3_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "SPEI3": -3,
-    "PredictedProb": "0,505"
+    "PredictedProb": 0.505
   },
   {
     "NUTS3_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "SPEI3": -2,
-    "PredictedProb": "0,232"
+    "PredictedProb": 0.232
   },
   {
     "NUTS3_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "SPEI3": -1,
-    "PredictedProb": "0,082"
+    "PredictedProb": 0.082
   },
   {
     "NUTS3_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "SPEI3": 0,
-    "PredictedProb": "0,026"
+    "PredictedProb": 0.026
   },
   {
     "NUTS3_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "SPEI3": -4,
-    "PredictedProb": "0,907"
+    "PredictedProb": 0.907
   },
   {
     "NUTS3_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "SPEI3": -3,
-    "PredictedProb": "0,679"
+    "PredictedProb": 0.679
   },
   {
     "NUTS3_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "SPEI3": -2,
-    "PredictedProb": "0,315"
+    "PredictedProb": 0.315
   },
   {
     "NUTS3_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "SPEI3": -1,
-    "PredictedProb": "0,090"
+    "PredictedProb": 0.09
   },
   {
     "NUTS3_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "SPEI3": 0,
-    "PredictedProb": "0,021"
+    "PredictedProb": 0.021
   },
   {
     "NUTS3_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "SPEI3": -4,
-    "PredictedProb": "0,911"
+    "PredictedProb": 0.911
   },
   {
     "NUTS3_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "SPEI3": -3,
-    "PredictedProb": "0,618"
+    "PredictedProb": 0.618
   },
   {
     "NUTS3_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "SPEI3": -2,
-    "PredictedProb": "0,204"
+    "PredictedProb": 0.204
   },
   {
     "NUTS3_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "SPEI3": -1,
-    "PredictedProb": "0,039"
+    "PredictedProb": 0.039
   },
   {
     "NUTS3_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "SPEI3": 0,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "CH025",
     "NUTS_NAME": "Jura",
     "SPEI3": -4,
-    "PredictedProb": "0,992"
+    "PredictedProb": 0.992
   },
   {
     "NUTS3_ID": "CH025",
     "NUTS_NAME": "Jura",
     "SPEI3": -3,
-    "PredictedProb": "0,915"
+    "PredictedProb": 0.915
   },
   {
     "NUTS3_ID": "CH025",
     "NUTS_NAME": "Jura",
     "SPEI3": -2,
-    "PredictedProb": "0,489"
+    "PredictedProb": 0.489
   },
   {
     "NUTS3_ID": "CH025",
     "NUTS_NAME": "Jura",
     "SPEI3": -1,
-    "PredictedProb": "0,079"
+    "PredictedProb": 0.079
   },
   {
     "NUTS3_ID": "CH025",
     "NUTS_NAME": "Jura",
     "SPEI3": 0,
-    "PredictedProb": "0,008"
+    "PredictedProb": 0.008
   },
   {
     "NUTS3_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "SPEI3": -4,
-    "PredictedProb": "0,960"
+    "PredictedProb": 0.96
   },
   {
     "NUTS3_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "SPEI3": -3,
-    "PredictedProb": "0,737"
+    "PredictedProb": 0.737
   },
   {
     "NUTS3_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "SPEI3": -2,
-    "PredictedProb": "0,246"
+    "PredictedProb": 0.246
   },
   {
     "NUTS3_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "SPEI3": -1,
-    "PredictedProb": "0,037"
+    "PredictedProb": 0.037
   },
   {
     "NUTS3_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "SPEI3": 0,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "SPEI3": -4,
-    "PredictedProb": "0,994"
+    "PredictedProb": 0.994
   },
   {
     "NUTS3_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "SPEI3": -3,
-    "PredictedProb": "0,941"
+    "PredictedProb": 0.941
   },
   {
     "NUTS3_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "SPEI3": -2,
-    "PredictedProb": "0,600"
+    "PredictedProb": 0.6
   },
   {
     "NUTS3_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "SPEI3": -1,
-    "PredictedProb": "0,124"
+    "PredictedProb": 0.124
   },
   {
     "NUTS3_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "SPEI3": 0,
-    "PredictedProb": "0,013"
+    "PredictedProb": 0.013
   },
   {
     "NUTS3_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "SPEI3": -4,
-    "PredictedProb": "0,988"
+    "PredictedProb": 0.988
   },
   {
     "NUTS3_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "SPEI3": -3,
-    "PredictedProb": "0,907"
+    "PredictedProb": 0.907
   },
   {
     "NUTS3_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "SPEI3": -2,
-    "PredictedProb": "0,543"
+    "PredictedProb": 0.543
   },
   {
     "NUTS3_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "SPEI3": -1,
-    "PredictedProb": "0,127"
+    "PredictedProb": 0.127
   },
   {
     "NUTS3_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "SPEI3": 0,
-    "PredictedProb": "0,017"
+    "PredictedProb": 0.017
   },
   {
     "NUTS3_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "SPEI3": -4,
-    "PredictedProb": "0,974"
+    "PredictedProb": 0.974
   },
   {
     "NUTS3_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "SPEI3": -3,
-    "PredictedProb": "0,838"
+    "PredictedProb": 0.838
   },
   {
     "NUTS3_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "SPEI3": -2,
-    "PredictedProb": "0,421"
+    "PredictedProb": 0.421
   },
   {
     "NUTS3_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "SPEI3": -1,
-    "PredictedProb": "0,092"
+    "PredictedProb": 0.092
   },
   {
     "NUTS3_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "SPEI3": 0,
-    "PredictedProb": "0,014"
+    "PredictedProb": 0.014
   },
   {
     "NUTS3_ID": "CH051",
@@ -1179,511 +1179,511 @@
     "NUTS3_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "SPEI3": -4,
-    "PredictedProb": "0,920"
+    "PredictedProb": 0.92
   },
   {
     "NUTS3_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "SPEI3": -3,
-    "PredictedProb": "0,671"
+    "PredictedProb": 0.671
   },
   {
     "NUTS3_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "SPEI3": -2,
-    "PredictedProb": "0,264"
+    "PredictedProb": 0.264
   },
   {
     "NUTS3_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "SPEI3": -1,
-    "PredictedProb": "0,059"
+    "PredictedProb": 0.059
   },
   {
     "NUTS3_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "SPEI3": 0,
-    "PredictedProb": "0,011"
+    "PredictedProb": 0.011
   },
   {
     "NUTS3_ID": "CH053",
     "NUTS_NAME": "Appenzell Ausserrhoden",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "CH053",
     "NUTS_NAME": "Appenzell Ausserrhoden",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "CH053",
     "NUTS_NAME": "Appenzell Ausserrhoden",
     "SPEI3": -2,
-    "PredictedProb": "0,627"
+    "PredictedProb": 0.627
   },
   {
     "NUTS3_ID": "CH053",
     "NUTS_NAME": "Appenzell Ausserrhoden",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "CH053",
     "NUTS_NAME": "Appenzell Ausserrhoden",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "CH054",
     "NUTS_NAME": "Appenzell Innerrhoden",
     "SPEI3": -4,
-    "PredictedProb": "0,999"
+    "PredictedProb": 0.999
   },
   {
     "NUTS3_ID": "CH054",
     "NUTS_NAME": "Appenzell Innerrhoden",
     "SPEI3": -3,
-    "PredictedProb": "0,950"
+    "PredictedProb": 0.95
   },
   {
     "NUTS3_ID": "CH054",
     "NUTS_NAME": "Appenzell Innerrhoden",
     "SPEI3": -2,
-    "PredictedProb": "0,257"
+    "PredictedProb": 0.257
   },
   {
     "NUTS3_ID": "CH054",
     "NUTS_NAME": "Appenzell Innerrhoden",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "CH054",
     "NUTS_NAME": "Appenzell Innerrhoden",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "SPEI3": -4,
-    "PredictedProb": "0,706"
+    "PredictedProb": 0.706
   },
   {
     "NUTS3_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "SPEI3": -3,
-    "PredictedProb": "0,418"
+    "PredictedProb": 0.418
   },
   {
     "NUTS3_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "SPEI3": -2,
-    "PredictedProb": "0,177"
+    "PredictedProb": 0.177
   },
   {
     "NUTS3_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "SPEI3": -1,
-    "PredictedProb": "0,060"
+    "PredictedProb": 0.06
   },
   {
     "NUTS3_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "SPEI3": 0,
-    "PredictedProb": "0,019"
+    "PredictedProb": 0.019
   },
   {
     "NUTS3_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "SPEI3": -4,
-    "PredictedProb": "0,979"
+    "PredictedProb": 0.979
   },
   {
     "NUTS3_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "SPEI3": -3,
-    "PredictedProb": "0,849"
+    "PredictedProb": 0.849
   },
   {
     "NUTS3_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "SPEI3": -2,
-    "PredictedProb": "0,401"
+    "PredictedProb": 0.401
   },
   {
     "NUTS3_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "SPEI3": -1,
-    "PredictedProb": "0,074"
+    "PredictedProb": 0.074
   },
   {
     "NUTS3_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "SPEI3": -4,
-    "PredictedProb": "0,955"
+    "PredictedProb": 0.955
   },
   {
     "NUTS3_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "SPEI3": -3,
-    "PredictedProb": "0,798"
+    "PredictedProb": 0.798
   },
   {
     "NUTS3_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "SPEI3": -2,
-    "PredictedProb": "0,421"
+    "PredictedProb": 0.421
   },
   {
     "NUTS3_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "SPEI3": -1,
-    "PredictedProb": "0,118"
+    "PredictedProb": 0.118
   },
   {
     "NUTS3_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "SPEI3": 0,
-    "PredictedProb": "0,024"
+    "PredictedProb": 0.024
   },
   {
     "NUTS3_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "SPEI3": -4,
-    "PredictedProb": "0,970"
+    "PredictedProb": 0.97
   },
   {
     "NUTS3_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "SPEI3": -3,
-    "PredictedProb": "0,811"
+    "PredictedProb": 0.811
   },
   {
     "NUTS3_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "SPEI3": -2,
-    "PredictedProb": "0,362"
+    "PredictedProb": 0.362
   },
   {
     "NUTS3_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "SPEI3": -1,
-    "PredictedProb": "0,070"
+    "PredictedProb": 0.07
   },
   {
     "NUTS3_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "SPEI3": 0,
-    "PredictedProb": "0,010"
+    "PredictedProb": 0.01
   },
   {
     "NUTS3_ID": "CH062",
     "NUTS_NAME": "Uri",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "CH062",
     "NUTS_NAME": "Uri",
     "SPEI3": -3,
-    "PredictedProb": "0,992"
+    "PredictedProb": 0.992
   },
   {
     "NUTS3_ID": "CH062",
     "NUTS_NAME": "Uri",
     "SPEI3": -2,
-    "PredictedProb": "0,222"
+    "PredictedProb": 0.222
   },
   {
     "NUTS3_ID": "CH062",
     "NUTS_NAME": "Uri",
     "SPEI3": -1,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "CH062",
     "NUTS_NAME": "Uri",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "CH063",
     "NUTS_NAME": "Schwyz",
     "SPEI3": -4,
-    "PredictedProb": "0,940"
+    "PredictedProb": 0.94
   },
   {
     "NUTS3_ID": "CH063",
     "NUTS_NAME": "Schwyz",
     "SPEI3": -3,
-    "PredictedProb": "0,716"
+    "PredictedProb": 0.716
   },
   {
     "NUTS3_ID": "CH063",
     "NUTS_NAME": "Schwyz",
     "SPEI3": -2,
-    "PredictedProb": "0,288"
+    "PredictedProb": 0.288
   },
   {
     "NUTS3_ID": "CH063",
     "NUTS_NAME": "Schwyz",
     "SPEI3": -1,
-    "PredictedProb": "0,061"
+    "PredictedProb": 0.061
   },
   {
     "NUTS3_ID": "CH063",
     "NUTS_NAME": "Schwyz",
     "SPEI3": 0,
-    "PredictedProb": "0,010"
+    "PredictedProb": 0.01
   },
   {
     "NUTS3_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "SPEI3": -4,
-    "PredictedProb": "0,999"
+    "PredictedProb": 0.999
   },
   {
     "NUTS3_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "SPEI3": -3,
-    "PredictedProb": "0,970"
+    "PredictedProb": 0.97
   },
   {
     "NUTS3_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "SPEI3": -2,
-    "PredictedProb": "0,342"
+    "PredictedProb": 0.342
   },
   {
     "NUTS3_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "SPEI3": -1,
-    "PredictedProb": "0,008"
+    "PredictedProb": 0.008
   },
   {
     "NUTS3_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "SPEI3": -4,
-    "PredictedProb": "0,997"
+    "PredictedProb": 0.997
   },
   {
     "NUTS3_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "SPEI3": -3,
-    "PredictedProb": "0,914"
+    "PredictedProb": 0.914
   },
   {
     "NUTS3_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "SPEI3": -2,
-    "PredictedProb": "0,222"
+    "PredictedProb": 0.222
   },
   {
     "NUTS3_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "SPEI3": -1,
-    "PredictedProb": "0,008"
+    "PredictedProb": 0.008
   },
   {
     "NUTS3_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "CH066",
     "NUTS_NAME": "Zug",
     "SPEI3": -4,
-    "PredictedProb": "0,317"
+    "PredictedProb": 0.317
   },
   {
     "NUTS3_ID": "CH066",
     "NUTS_NAME": "Zug",
     "SPEI3": -3,
-    "PredictedProb": "0,168"
+    "PredictedProb": 0.168
   },
   {
     "NUTS3_ID": "CH066",
     "NUTS_NAME": "Zug",
     "SPEI3": -2,
-    "PredictedProb": "0,081"
+    "PredictedProb": 0.081
   },
   {
     "NUTS3_ID": "CH066",
     "NUTS_NAME": "Zug",
     "SPEI3": -1,
-    "PredictedProb": "0,037"
+    "PredictedProb": 0.037
   },
   {
     "NUTS3_ID": "CH066",
     "NUTS_NAME": "Zug",
     "SPEI3": 0,
-    "PredictedProb": "0,016"
+    "PredictedProb": 0.016
   },
   {
     "NUTS3_ID": "CH070",
     "NUTS_NAME": "Ticino",
     "SPEI3": -4,
-    "PredictedProb": "0,986"
+    "PredictedProb": 0.986
   },
   {
     "NUTS3_ID": "CH070",
     "NUTS_NAME": "Ticino",
     "SPEI3": -3,
-    "PredictedProb": "0,868"
+    "PredictedProb": 0.868
   },
   {
     "NUTS3_ID": "CH070",
     "NUTS_NAME": "Ticino",
     "SPEI3": -2,
-    "PredictedProb": "0,377"
+    "PredictedProb": 0.377
   },
   {
     "NUTS3_ID": "CH070",
     "NUTS_NAME": "Ticino",
     "SPEI3": -1,
-    "PredictedProb": "0,053"
+    "PredictedProb": 0.053
   },
   {
     "NUTS3_ID": "CH070",
     "NUTS_NAME": "Ticino",
     "SPEI3": 0,
-    "PredictedProb": "0,005"
+    "PredictedProb": 0.005
   },
   {
     "NUTS3_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "SPEI3": -4,
-    "PredictedProb": "0,399"
+    "PredictedProb": 0.399
   },
   {
     "NUTS3_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "SPEI3": -3,
-    "PredictedProb": "0,195"
+    "PredictedProb": 0.195
   },
   {
     "NUTS3_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "SPEI3": -2,
-    "PredictedProb": "0,081"
+    "PredictedProb": 0.081
   },
   {
     "NUTS3_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "SPEI3": -1,
-    "PredictedProb": "0,031"
+    "PredictedProb": 0.031
   },
   {
     "NUTS3_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "SPEI3": 0,
-    "PredictedProb": "0,012"
+    "PredictedProb": 0.012
   },
   {
     "NUTS3_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "SPEI3": -4,
-    "PredictedProb": "0,196"
+    "PredictedProb": 0.196
   },
   {
     "NUTS3_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "SPEI3": -3,
-    "PredictedProb": "0,140"
+    "PredictedProb": 0.14
   },
   {
     "NUTS3_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "SPEI3": -2,
-    "PredictedProb": "0,098"
+    "PredictedProb": 0.098
   },
   {
     "NUTS3_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "SPEI3": -1,
-    "PredictedProb": "0,068"
+    "PredictedProb": 0.068
   },
   {
     "NUTS3_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "SPEI3": 0,
-    "PredictedProb": "0,046"
+    "PredictedProb": 0.046
   },
   {
     "NUTS3_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "SPEI3": -4,
-    "PredictedProb": "0,276"
+    "PredictedProb": 0.276
   },
   {
     "NUTS3_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "SPEI3": -3,
-    "PredictedProb": "0,109"
+    "PredictedProb": 0.109
   },
   {
     "NUTS3_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "SPEI3": -2,
-    "PredictedProb": "0,038"
+    "PredictedProb": 0.038
   },
   {
     "NUTS3_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "SPEI3": -1,
-    "PredictedProb": "0,012"
+    "PredictedProb": 0.012
   },
   {
     "NUTS3_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "SPEI3": 0,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "SPEI3": -4,
-    "PredictedProb": "0,988"
+    "PredictedProb": 0.988
   },
   {
     "NUTS3_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "SPEI3": -3,
-    "PredictedProb": "0,892"
+    "PredictedProb": 0.892
   },
   {
     "NUTS3_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "SPEI3": -2,
-    "PredictedProb": "0,460"
+    "PredictedProb": 0.46
   },
   {
     "NUTS3_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "SPEI3": -1,
-    "PredictedProb": "0,081"
+    "PredictedProb": 0.081
   },
   {
     "NUTS3_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "DE135",
@@ -1695,271 +1695,271 @@
     "NUTS3_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "SPEI3": -4,
-    "PredictedProb": "0,100"
+    "PredictedProb": 0.1
   },
   {
     "NUTS3_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "SPEI3": -3,
-    "PredictedProb": "0,074"
+    "PredictedProb": 0.074
   },
   {
     "NUTS3_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "SPEI3": -2,
-    "PredictedProb": "0,054"
+    "PredictedProb": 0.054
   },
   {
     "NUTS3_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "SPEI3": -1,
-    "PredictedProb": "0,040"
+    "PredictedProb": 0.04
   },
   {
     "NUTS3_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "SPEI3": 0,
-    "PredictedProb": "0,029"
+    "PredictedProb": 0.029
   },
   {
     "NUTS3_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "SPEI3": -4,
-    "PredictedProb": "0,967"
+    "PredictedProb": 0.967
   },
   {
     "NUTS3_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "SPEI3": -3,
-    "PredictedProb": "0,626"
+    "PredictedProb": 0.626
   },
   {
     "NUTS3_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "SPEI3": -2,
-    "PredictedProb": "0,088"
+    "PredictedProb": 0.088
   },
   {
     "NUTS3_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "SPEI3": -4,
-    "PredictedProb": "0,998"
+    "PredictedProb": 0.998
   },
   {
     "NUTS3_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "SPEI3": -3,
-    "PredictedProb": "0,881"
+    "PredictedProb": 0.881
   },
   {
     "NUTS3_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "SPEI3": -2,
-    "PredictedProb": "0,105"
+    "PredictedProb": 0.105
   },
   {
     "NUTS3_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "SPEI3": -1,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "SPEI3": -4,
-    "PredictedProb": "0,569"
+    "PredictedProb": 0.569
   },
   {
     "NUTS3_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "SPEI3": -3,
-    "PredictedProb": "0,370"
+    "PredictedProb": 0.37
   },
   {
     "NUTS3_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "SPEI3": -2,
-    "PredictedProb": "0,207"
+    "PredictedProb": 0.207
   },
   {
     "NUTS3_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "SPEI3": -1,
-    "PredictedProb": "0,104"
+    "PredictedProb": 0.104
   },
   {
     "NUTS3_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "SPEI3": 0,
-    "PredictedProb": "0,049"
+    "PredictedProb": 0.049
   },
   {
     "NUTS3_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "SPEI3": -4,
-    "PredictedProb": "0,276"
+    "PredictedProb": 0.276
   },
   {
     "NUTS3_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "SPEI3": -3,
-    "PredictedProb": "0,167"
+    "PredictedProb": 0.167
   },
   {
     "NUTS3_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "SPEI3": -2,
-    "PredictedProb": "0,095"
+    "PredictedProb": 0.095
   },
   {
     "NUTS3_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "SPEI3": -1,
-    "PredictedProb": "0,052"
+    "PredictedProb": 0.052
   },
   {
     "NUTS3_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "SPEI3": 0,
-    "PredictedProb": "0,028"
+    "PredictedProb": 0.028
   },
   {
     "NUTS3_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "SPEI3": -4,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "SPEI3": -3,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "SPEI3": -2,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "SPEI3": 0,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "SPEI3": -4,
-    "PredictedProb": "0,152"
+    "PredictedProb": 0.152
   },
   {
     "NUTS3_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "SPEI3": -3,
-    "PredictedProb": "0,055"
+    "PredictedProb": 0.055
   },
   {
     "NUTS3_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "SPEI3": -2,
-    "PredictedProb": "0,019"
+    "PredictedProb": 0.019
   },
   {
     "NUTS3_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "SPEI3": 0,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "SPEI3": -4,
-    "PredictedProb": "0,988"
+    "PredictedProb": 0.988
   },
   {
     "NUTS3_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "SPEI3": -3,
-    "PredictedProb": "0,685"
+    "PredictedProb": 0.685
   },
   {
     "NUTS3_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "SPEI3": -2,
-    "PredictedProb": "0,055"
+    "PredictedProb": 0.055
   },
   {
     "NUTS3_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "SPEI3": -1,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "SPEI3": -3,
-    "PredictedProb": "0,952"
+    "PredictedProb": 0.952
   },
   {
     "NUTS3_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "SPEI3": -2,
-    "PredictedProb": "0,091"
+    "PredictedProb": 0.091
   },
   {
     "NUTS3_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "SPEI3": -1,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE145",
@@ -1971,181 +1971,181 @@
     "NUTS3_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "SPEI3": -4,
-    "PredictedProb": "0,980"
+    "PredictedProb": 0.98
   },
   {
     "NUTS3_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "SPEI3": -3,
-    "PredictedProb": "0,644"
+    "PredictedProb": 0.644
   },
   {
     "NUTS3_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "SPEI3": -2,
-    "PredictedProb": "0,061"
+    "PredictedProb": 0.061
   },
   {
     "NUTS3_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "SPEI3": -1,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "SPEI3": -4,
-    "PredictedProb": "0,921"
+    "PredictedProb": 0.921
   },
   {
     "NUTS3_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "SPEI3": -3,
-    "PredictedProb": "0,584"
+    "PredictedProb": 0.584
   },
   {
     "NUTS3_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "SPEI3": -2,
-    "PredictedProb": "0,145"
+    "PredictedProb": 0.145
   },
   {
     "NUTS3_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "SPEI3": -1,
-    "PredictedProb": "0,020"
+    "PredictedProb": 0.02
   },
   {
     "NUTS3_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "SPEI3": 0,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "SPEI3": -4,
-    "PredictedProb": "0,999"
+    "PredictedProb": 0.999
   },
   {
     "NUTS3_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "SPEI3": -3,
-    "PredictedProb": "0,918"
+    "PredictedProb": 0.918
   },
   {
     "NUTS3_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "SPEI3": -2,
-    "PredictedProb": "0,081"
+    "PredictedProb": 0.081
   },
   {
     "NUTS3_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "SPEI3": -1,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "SPEI3": -4,
-    "PredictedProb": "0,867"
+    "PredictedProb": 0.867
   },
   {
     "NUTS3_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "SPEI3": -3,
-    "PredictedProb": "0,494"
+    "PredictedProb": 0.494
   },
   {
     "NUTS3_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "SPEI3": -2,
-    "PredictedProb": "0,127"
+    "PredictedProb": 0.127
   },
   {
     "NUTS3_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "SPEI3": -1,
-    "PredictedProb": "0,021"
+    "PredictedProb": 0.021
   },
   {
     "NUTS3_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "SPEI3": 0,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "SPEI3": -4,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "SPEI3": -3,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "SPEI3": -2,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "SPEI3": -1,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "SPEI3": 0,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "DE212",
     "NUTS_NAME": "München, Kreisfreie Stadt",
     "SPEI3": -4,
-    "PredictedProb": "0,675"
+    "PredictedProb": 0.675
   },
   {
     "NUTS3_ID": "DE212",
     "NUTS_NAME": "München, Kreisfreie Stadt",
     "SPEI3": -3,
-    "PredictedProb": "0,228"
+    "PredictedProb": 0.228
   },
   {
     "NUTS3_ID": "DE212",
     "NUTS_NAME": "München, Kreisfreie Stadt",
     "SPEI3": -2,
-    "PredictedProb": "0,040"
+    "PredictedProb": 0.04
   },
   {
     "NUTS3_ID": "DE212",
     "NUTS_NAME": "München, Kreisfreie Stadt",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "DE212",
     "NUTS_NAME": "München, Kreisfreie Stadt",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE213",
@@ -2157,31 +2157,31 @@
     "NUTS3_ID": "DE214",
     "NUTS_NAME": "Altötting",
     "SPEI3": -4,
-    "PredictedProb": "0,608"
+    "PredictedProb": 0.608
   },
   {
     "NUTS3_ID": "DE214",
     "NUTS_NAME": "Altötting",
     "SPEI3": -3,
-    "PredictedProb": "0,196"
+    "PredictedProb": 0.196
   },
   {
     "NUTS3_ID": "DE214",
     "NUTS_NAME": "Altötting",
     "SPEI3": -2,
-    "PredictedProb": "0,037"
+    "PredictedProb": 0.037
   },
   {
     "NUTS3_ID": "DE214",
     "NUTS_NAME": "Altötting",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "DE214",
     "NUTS_NAME": "Altötting",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE215",
@@ -2193,121 +2193,121 @@
     "NUTS3_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "SPEI3": -2,
-    "PredictedProb": "0,698"
+    "PredictedProb": 0.698
   },
   {
     "NUTS3_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "SPEI3": -4,
-    "PredictedProb": "0,921"
+    "PredictedProb": 0.921
   },
   {
     "NUTS3_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "SPEI3": -3,
-    "PredictedProb": "0,449"
+    "PredictedProb": 0.449
   },
   {
     "NUTS3_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "SPEI3": -2,
-    "PredictedProb": "0,054"
+    "PredictedProb": 0.054
   },
   {
     "NUTS3_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "SPEI3": -1,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "SPEI3": -3,
-    "PredictedProb": "0,990"
+    "PredictedProb": 0.99
   },
   {
     "NUTS3_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "SPEI3": -2,
-    "PredictedProb": "0,424"
+    "PredictedProb": 0.424
   },
   {
     "NUTS3_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "SPEI3": -4,
-    "PredictedProb": "0,686"
+    "PredictedProb": 0.686
   },
   {
     "NUTS3_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "SPEI3": -3,
-    "PredictedProb": "0,353"
+    "PredictedProb": 0.353
   },
   {
     "NUTS3_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "SPEI3": -2,
-    "PredictedProb": "0,120"
+    "PredictedProb": 0.12
   },
   {
     "NUTS3_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "SPEI3": -1,
-    "PredictedProb": "0,033"
+    "PredictedProb": 0.033
   },
   {
     "NUTS3_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "DE21A",
@@ -2337,61 +2337,61 @@
     "NUTS3_ID": "DE21E",
     "NUTS_NAME": "Landsberg am Lech",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE21E",
     "NUTS_NAME": "Landsberg am Lech",
     "SPEI3": -3,
-    "PredictedProb": "0,999"
+    "PredictedProb": 0.999
   },
   {
     "NUTS3_ID": "DE21E",
     "NUTS_NAME": "Landsberg am Lech",
     "SPEI3": -2,
-    "PredictedProb": "0,615"
+    "PredictedProb": 0.615
   },
   {
     "NUTS3_ID": "DE21E",
     "NUTS_NAME": "Landsberg am Lech",
     "SPEI3": -1,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "DE21E",
     "NUTS_NAME": "Landsberg am Lech",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "SPEI3": -4,
-    "PredictedProb": "0,929"
+    "PredictedProb": 0.929
   },
   {
     "NUTS3_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "SPEI3": -3,
-    "PredictedProb": "0,491"
+    "PredictedProb": 0.491
   },
   {
     "NUTS3_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "SPEI3": -2,
-    "PredictedProb": "0,067"
+    "PredictedProb": 0.067
   },
   {
     "NUTS3_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "SPEI3": -1,
-    "PredictedProb": "0,005"
+    "PredictedProb": 0.005
   },
   {
     "NUTS3_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE21G",
@@ -2403,61 +2403,61 @@
     "NUTS3_ID": "DE21H",
     "NUTS_NAME": "München, Landkreis",
     "SPEI3": -4,
-    "PredictedProb": "0,722"
+    "PredictedProb": 0.722
   },
   {
     "NUTS3_ID": "DE21H",
     "NUTS_NAME": "München, Landkreis",
     "SPEI3": -3,
-    "PredictedProb": "0,256"
+    "PredictedProb": 0.256
   },
   {
     "NUTS3_ID": "DE21H",
     "NUTS_NAME": "München, Landkreis",
     "SPEI3": -2,
-    "PredictedProb": "0,044"
+    "PredictedProb": 0.044
   },
   {
     "NUTS3_ID": "DE21H",
     "NUTS_NAME": "München, Landkreis",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "DE21H",
     "NUTS_NAME": "München, Landkreis",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "SPEI3": -4,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "SPEI3": -3,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "SPEI3": -2,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "SPEI3": -1,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "SPEI3": 0,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "DE21J",
@@ -2469,121 +2469,121 @@
     "NUTS3_ID": "DE21K",
     "NUTS_NAME": "Rosenheim, Landkreis",
     "SPEI3": -4,
-    "PredictedProb": "0,657"
+    "PredictedProb": 0.657
   },
   {
     "NUTS3_ID": "DE21K",
     "NUTS_NAME": "Rosenheim, Landkreis",
     "SPEI3": -3,
-    "PredictedProb": "0,225"
+    "PredictedProb": 0.225
   },
   {
     "NUTS3_ID": "DE21K",
     "NUTS_NAME": "Rosenheim, Landkreis",
     "SPEI3": -2,
-    "PredictedProb": "0,042"
+    "PredictedProb": 0.042
   },
   {
     "NUTS3_ID": "DE21K",
     "NUTS_NAME": "Rosenheim, Landkreis",
     "SPEI3": -1,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   },
   {
     "NUTS3_ID": "DE21K",
     "NUTS_NAME": "Rosenheim, Landkreis",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "SPEI3": -2,
-    "PredictedProb": "0,552"
+    "PredictedProb": 0.552
   },
   {
     "NUTS3_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "SPEI3": -1,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE21M",
     "NUTS_NAME": "Traunstein",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE21M",
     "NUTS_NAME": "Traunstein",
     "SPEI3": -3,
-    "PredictedProb": "0,989"
+    "PredictedProb": 0.989
   },
   {
     "NUTS3_ID": "DE21M",
     "NUTS_NAME": "Traunstein",
     "SPEI3": -2,
-    "PredictedProb": "0,439"
+    "PredictedProb": 0.439
   },
   {
     "NUTS3_ID": "DE21M",
     "NUTS_NAME": "Traunstein",
     "SPEI3": -1,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   },
   {
     "NUTS3_ID": "DE21M",
     "NUTS_NAME": "Traunstein",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "SPEI3": -2,
-    "PredictedProb": "0,982"
+    "PredictedProb": 0.982
   },
   {
     "NUTS3_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE271",
@@ -2601,31 +2601,31 @@
     "NUTS3_ID": "DE273",
     "NUTS_NAME": "Kempten (Allgäu), Kreisfreie Stadt",
     "SPEI3": -4,
-    "PredictedProb": "0,999"
+    "PredictedProb": 0.999
   },
   {
     "NUTS3_ID": "DE273",
     "NUTS_NAME": "Kempten (Allgäu), Kreisfreie Stadt",
     "SPEI3": -3,
-    "PredictedProb": "0,930"
+    "PredictedProb": 0.93
   },
   {
     "NUTS3_ID": "DE273",
     "NUTS_NAME": "Kempten (Allgäu), Kreisfreie Stadt",
     "SPEI3": -2,
-    "PredictedProb": "0,087"
+    "PredictedProb": 0.087
   },
   {
     "NUTS3_ID": "DE273",
     "NUTS_NAME": "Kempten (Allgäu), Kreisfreie Stadt",
     "SPEI3": -1,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "DE273",
     "NUTS_NAME": "Kempten (Allgäu), Kreisfreie Stadt",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE274",
@@ -2637,31 +2637,31 @@
     "NUTS3_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "SPEI3": -2,
-    "PredictedProb": "0,373"
+    "PredictedProb": 0.373
   },
   {
     "NUTS3_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "DE276",
@@ -2673,31 +2673,31 @@
     "NUTS3_ID": "DE277",
     "NUTS_NAME": "Dillingen a.d. Donau",
     "SPEI3": -4,
-    "PredictedProb": "0,998"
+    "PredictedProb": 0.998
   },
   {
     "NUTS3_ID": "DE277",
     "NUTS_NAME": "Dillingen a.d. Donau",
     "SPEI3": -3,
-    "PredictedProb": "0,957"
+    "PredictedProb": 0.957
   },
   {
     "NUTS3_ID": "DE277",
     "NUTS_NAME": "Dillingen a.d. Donau",
     "SPEI3": -2,
-    "PredictedProb": "0,526"
+    "PredictedProb": 0.526
   },
   {
     "NUTS3_ID": "DE277",
     "NUTS_NAME": "Dillingen a.d. Donau",
     "SPEI3": -1,
-    "PredictedProb": "0,052"
+    "PredictedProb": 0.052
   },
   {
     "NUTS3_ID": "DE277",
     "NUTS_NAME": "Dillingen a.d. Donau",
     "SPEI3": 0,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "DE278",
@@ -2721,31 +2721,31 @@
     "NUTS3_ID": "DE27B",
     "NUTS_NAME": "Ostallgäu",
     "SPEI3": -4,
-    "PredictedProb": "0,961"
+    "PredictedProb": 0.961
   },
   {
     "NUTS3_ID": "DE27B",
     "NUTS_NAME": "Ostallgäu",
     "SPEI3": -3,
-    "PredictedProb": "0,699"
+    "PredictedProb": 0.699
   },
   {
     "NUTS3_ID": "DE27B",
     "NUTS_NAME": "Ostallgäu",
     "SPEI3": -2,
-    "PredictedProb": "0,181"
+    "PredictedProb": 0.181
   },
   {
     "NUTS3_ID": "DE27B",
     "NUTS_NAME": "Ostallgäu",
     "SPEI3": -1,
-    "PredictedProb": "0,021"
+    "PredictedProb": 0.021
   },
   {
     "NUTS3_ID": "DE27B",
     "NUTS_NAME": "Ostallgäu",
     "SPEI3": 0,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "DE27C",
@@ -2757,691 +2757,691 @@
     "NUTS3_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "SPEI3": -4,
-    "PredictedProb": "0,518"
+    "PredictedProb": 0.518
   },
   {
     "NUTS3_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "SPEI3": -3,
-    "PredictedProb": "0,265"
+    "PredictedProb": 0.265
   },
   {
     "NUTS3_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "SPEI3": -2,
-    "PredictedProb": "0,109"
+    "PredictedProb": 0.109
   },
   {
     "NUTS3_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "SPEI3": -1,
-    "PredictedProb": "0,039"
+    "PredictedProb": 0.039
   },
   {
     "NUTS3_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "SPEI3": 0,
-    "PredictedProb": "0,014"
+    "PredictedProb": 0.014
   },
   {
     "NUTS3_ID": "DE27E",
     "NUTS_NAME": "Oberallgäu",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "DE27E",
     "NUTS_NAME": "Oberallgäu",
     "SPEI3": -3,
-    "PredictedProb": "0,995"
+    "PredictedProb": 0.995
   },
   {
     "NUTS3_ID": "DE27E",
     "NUTS_NAME": "Oberallgäu",
     "SPEI3": -2,
-    "PredictedProb": "0,520"
+    "PredictedProb": 0.52
   },
   {
     "NUTS3_ID": "DE27E",
     "NUTS_NAME": "Oberallgäu",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "DE27E",
     "NUTS_NAME": "Oberallgäu",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "FRC21",
     "NUTS_NAME": "Doubs",
     "SPEI3": -4,
-    "PredictedProb": "0,970"
+    "PredictedProb": 0.97
   },
   {
     "NUTS3_ID": "FRC21",
     "NUTS_NAME": "Doubs",
     "SPEI3": -3,
-    "PredictedProb": "0,840"
+    "PredictedProb": 0.84
   },
   {
     "NUTS3_ID": "FRC21",
     "NUTS_NAME": "Doubs",
     "SPEI3": -2,
-    "PredictedProb": "0,464"
+    "PredictedProb": 0.464
   },
   {
     "NUTS3_ID": "FRC21",
     "NUTS_NAME": "Doubs",
     "SPEI3": -1,
-    "PredictedProb": "0,125"
+    "PredictedProb": 0.125
   },
   {
     "NUTS3_ID": "FRC21",
     "NUTS_NAME": "Doubs",
     "SPEI3": 0,
-    "PredictedProb": "0,023"
+    "PredictedProb": 0.023
   },
   {
     "NUTS3_ID": "FRC22",
     "NUTS_NAME": "Jura",
     "SPEI3": -4,
-    "PredictedProb": "0,994"
+    "PredictedProb": 0.994
   },
   {
     "NUTS3_ID": "FRC22",
     "NUTS_NAME": "Jura",
     "SPEI3": -3,
-    "PredictedProb": "0,910"
+    "PredictedProb": 0.91
   },
   {
     "NUTS3_ID": "FRC22",
     "NUTS_NAME": "Jura",
     "SPEI3": -2,
-    "PredictedProb": "0,384"
+    "PredictedProb": 0.384
   },
   {
     "NUTS3_ID": "FRC22",
     "NUTS_NAME": "Jura",
     "SPEI3": -1,
-    "PredictedProb": "0,037"
+    "PredictedProb": 0.037
   },
   {
     "NUTS3_ID": "FRC22",
     "NUTS_NAME": "Jura",
     "SPEI3": 0,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "FRC23",
     "NUTS_NAME": "Haute-Saône",
     "SPEI3": -4,
-    "PredictedProb": "0,992"
+    "PredictedProb": 0.992
   },
   {
     "NUTS3_ID": "FRC23",
     "NUTS_NAME": "Haute-Saône",
     "SPEI3": -3,
-    "PredictedProb": "0,864"
+    "PredictedProb": 0.864
   },
   {
     "NUTS3_ID": "FRC23",
     "NUTS_NAME": "Haute-Saône",
     "SPEI3": -2,
-    "PredictedProb": "0,246"
+    "PredictedProb": 0.246
   },
   {
     "NUTS3_ID": "FRC23",
     "NUTS_NAME": "Haute-Saône",
     "SPEI3": -1,
-    "PredictedProb": "0,016"
+    "PredictedProb": 0.016
   },
   {
     "NUTS3_ID": "FRC23",
     "NUTS_NAME": "Haute-Saône",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "FRC24",
     "NUTS_NAME": "Territoire de Belfort",
     "SPEI3": -4,
-    "PredictedProb": "0,745"
+    "PredictedProb": 0.745
   },
   {
     "NUTS3_ID": "FRC24",
     "NUTS_NAME": "Territoire de Belfort",
     "SPEI3": -3,
-    "PredictedProb": "0,437"
+    "PredictedProb": 0.437
   },
   {
     "NUTS3_ID": "FRC24",
     "NUTS_NAME": "Territoire de Belfort",
     "SPEI3": -2,
-    "PredictedProb": "0,172"
+    "PredictedProb": 0.172
   },
   {
     "NUTS3_ID": "FRC24",
     "NUTS_NAME": "Territoire de Belfort",
     "SPEI3": -1,
-    "PredictedProb": "0,052"
+    "PredictedProb": 0.052
   },
   {
     "NUTS3_ID": "FRC24",
     "NUTS_NAME": "Territoire de Belfort",
     "SPEI3": 0,
-    "PredictedProb": "0,014"
+    "PredictedProb": 0.014
   },
   {
     "NUTS3_ID": "FRF11",
     "NUTS_NAME": "Bas-Rhin",
     "SPEI3": -4,
-    "PredictedProb": "0,994"
+    "PredictedProb": 0.994
   },
   {
     "NUTS3_ID": "FRF11",
     "NUTS_NAME": "Bas-Rhin",
     "SPEI3": -3,
-    "PredictedProb": "0,931"
+    "PredictedProb": 0.931
   },
   {
     "NUTS3_ID": "FRF11",
     "NUTS_NAME": "Bas-Rhin",
     "SPEI3": -2,
-    "PredictedProb": "0,523"
+    "PredictedProb": 0.523
   },
   {
     "NUTS3_ID": "FRF11",
     "NUTS_NAME": "Bas-Rhin",
     "SPEI3": -1,
-    "PredictedProb": "0,082"
+    "PredictedProb": 0.082
   },
   {
     "NUTS3_ID": "FRF11",
     "NUTS_NAME": "Bas-Rhin",
     "SPEI3": 0,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   },
   {
     "NUTS3_ID": "FRF12",
     "NUTS_NAME": "Haut-Rhin",
     "SPEI3": -4,
-    "PredictedProb": "0,971"
+    "PredictedProb": 0.971
   },
   {
     "NUTS3_ID": "FRF12",
     "NUTS_NAME": "Haut-Rhin",
     "SPEI3": -3,
-    "PredictedProb": "0,815"
+    "PredictedProb": 0.815
   },
   {
     "NUTS3_ID": "FRF12",
     "NUTS_NAME": "Haut-Rhin",
     "SPEI3": -2,
-    "PredictedProb": "0,362"
+    "PredictedProb": 0.362
   },
   {
     "NUTS3_ID": "FRF12",
     "NUTS_NAME": "Haut-Rhin",
     "SPEI3": -1,
-    "PredictedProb": "0,068"
+    "PredictedProb": 0.068
   },
   {
     "NUTS3_ID": "FRF12",
     "NUTS_NAME": "Haut-Rhin",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "FRK21",
     "NUTS_NAME": "Ain",
     "SPEI3": -4,
-    "PredictedProb": "0,823"
+    "PredictedProb": 0.823
   },
   {
     "NUTS3_ID": "FRK21",
     "NUTS_NAME": "Ain",
     "SPEI3": -3,
-    "PredictedProb": "0,646"
+    "PredictedProb": 0.646
   },
   {
     "NUTS3_ID": "FRK21",
     "NUTS_NAME": "Ain",
     "SPEI3": -2,
-    "PredictedProb": "0,418"
+    "PredictedProb": 0.418
   },
   {
     "NUTS3_ID": "FRK21",
     "NUTS_NAME": "Ain",
     "SPEI3": -1,
-    "PredictedProb": "0,221"
+    "PredictedProb": 0.221
   },
   {
     "NUTS3_ID": "FRK21",
     "NUTS_NAME": "Ain",
     "SPEI3": 0,
-    "PredictedProb": "0,100"
+    "PredictedProb": 0.1
   },
   {
     "NUTS3_ID": "FRK22",
     "NUTS_NAME": "Ardèche",
     "SPEI3": -4,
-    "PredictedProb": "0,612"
+    "PredictedProb": 0.612
   },
   {
     "NUTS3_ID": "FRK22",
     "NUTS_NAME": "Ardèche",
     "SPEI3": -3,
-    "PredictedProb": "0,472"
+    "PredictedProb": 0.472
   },
   {
     "NUTS3_ID": "FRK22",
     "NUTS_NAME": "Ardèche",
     "SPEI3": -2,
-    "PredictedProb": "0,336"
+    "PredictedProb": 0.336
   },
   {
     "NUTS3_ID": "FRK22",
     "NUTS_NAME": "Ardèche",
     "SPEI3": -1,
-    "PredictedProb": "0,223"
+    "PredictedProb": 0.223
   },
   {
     "NUTS3_ID": "FRK22",
     "NUTS_NAME": "Ardèche",
     "SPEI3": 0,
-    "PredictedProb": "0,140"
+    "PredictedProb": 0.14
   },
   {
     "NUTS3_ID": "FRK23",
     "NUTS_NAME": "Drôme",
     "SPEI3": -4,
-    "PredictedProb": "0,190"
+    "PredictedProb": 0.19
   },
   {
     "NUTS3_ID": "FRK23",
     "NUTS_NAME": "Drôme",
     "SPEI3": -3,
-    "PredictedProb": "0,190"
+    "PredictedProb": 0.19
   },
   {
     "NUTS3_ID": "FRK23",
     "NUTS_NAME": "Drôme",
     "SPEI3": -2,
-    "PredictedProb": "0,190"
+    "PredictedProb": 0.19
   },
   {
     "NUTS3_ID": "FRK23",
     "NUTS_NAME": "Drôme",
     "SPEI3": -1,
-    "PredictedProb": "0,190"
+    "PredictedProb": 0.19
   },
   {
     "NUTS3_ID": "FRK23",
     "NUTS_NAME": "Drôme",
     "SPEI3": 0,
-    "PredictedProb": "0,190"
+    "PredictedProb": 0.19
   },
   {
     "NUTS3_ID": "FRK24",
     "NUTS_NAME": "Isère",
     "SPEI3": -4,
-    "PredictedProb": "0,574"
+    "PredictedProb": 0.574
   },
   {
     "NUTS3_ID": "FRK24",
     "NUTS_NAME": "Isère",
     "SPEI3": -3,
-    "PredictedProb": "0,405"
+    "PredictedProb": 0.405
   },
   {
     "NUTS3_ID": "FRK24",
     "NUTS_NAME": "Isère",
     "SPEI3": -2,
-    "PredictedProb": "0,257"
+    "PredictedProb": 0.257
   },
   {
     "NUTS3_ID": "FRK24",
     "NUTS_NAME": "Isère",
     "SPEI3": -1,
-    "PredictedProb": "0,149"
+    "PredictedProb": 0.149
   },
   {
     "NUTS3_ID": "FRK24",
     "NUTS_NAME": "Isère",
     "SPEI3": 0,
-    "PredictedProb": "0,082"
+    "PredictedProb": 0.082
   },
   {
     "NUTS3_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "SPEI3": -4,
-    "PredictedProb": "0,262"
+    "PredictedProb": 0.262
   },
   {
     "NUTS3_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "SPEI3": -3,
-    "PredictedProb": "0,128"
+    "PredictedProb": 0.128
   },
   {
     "NUTS3_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "SPEI3": -2,
-    "PredictedProb": "0,058"
+    "PredictedProb": 0.058
   },
   {
     "NUTS3_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "SPEI3": -1,
-    "PredictedProb": "0,025"
+    "PredictedProb": 0.025
   },
   {
     "NUTS3_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "SPEI3": 0,
-    "PredictedProb": "0,010"
+    "PredictedProb": 0.01
   },
   {
     "NUTS3_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "SPEI3": -4,
-    "PredictedProb": "0,763"
+    "PredictedProb": 0.763
   },
   {
     "NUTS3_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "SPEI3": -3,
-    "PredictedProb": "0,524"
+    "PredictedProb": 0.524
   },
   {
     "NUTS3_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "SPEI3": -2,
-    "PredictedProb": "0,275"
+    "PredictedProb": 0.275
   },
   {
     "NUTS3_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "SPEI3": -1,
-    "PredictedProb": "0,115"
+    "PredictedProb": 0.115
   },
   {
     "NUTS3_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "SPEI3": 0,
-    "PredictedProb": "0,043"
+    "PredictedProb": 0.043
   },
   {
     "NUTS3_ID": "FRK27",
     "NUTS_NAME": "Savoie",
     "SPEI3": -4,
-    "PredictedProb": "0,707"
+    "PredictedProb": 0.707
   },
   {
     "NUTS3_ID": "FRK27",
     "NUTS_NAME": "Savoie",
     "SPEI3": -3,
-    "PredictedProb": "0,398"
+    "PredictedProb": 0.398
   },
   {
     "NUTS3_ID": "FRK27",
     "NUTS_NAME": "Savoie",
     "SPEI3": -2,
-    "PredictedProb": "0,153"
+    "PredictedProb": 0.153
   },
   {
     "NUTS3_ID": "FRK27",
     "NUTS_NAME": "Savoie",
     "SPEI3": -1,
-    "PredictedProb": "0,047"
+    "PredictedProb": 0.047
   },
   {
     "NUTS3_ID": "FRK27",
     "NUTS_NAME": "Savoie",
     "SPEI3": 0,
-    "PredictedProb": "0,013"
+    "PredictedProb": 0.013
   },
   {
     "NUTS3_ID": "FRK28",
     "NUTS_NAME": "Haute-Savoie",
     "SPEI3": -4,
-    "PredictedProb": "0,964"
+    "PredictedProb": 0.964
   },
   {
     "NUTS3_ID": "FRK28",
     "NUTS_NAME": "Haute-Savoie",
     "SPEI3": -3,
-    "PredictedProb": "0,750"
+    "PredictedProb": 0.75
   },
   {
     "NUTS3_ID": "FRK28",
     "NUTS_NAME": "Haute-Savoie",
     "SPEI3": -2,
-    "PredictedProb": "0,252"
+    "PredictedProb": 0.252
   },
   {
     "NUTS3_ID": "FRK28",
     "NUTS_NAME": "Haute-Savoie",
     "SPEI3": -1,
-    "PredictedProb": "0,036"
+    "PredictedProb": 0.036
   },
   {
     "NUTS3_ID": "FRK28",
     "NUTS_NAME": "Haute-Savoie",
     "SPEI3": 0,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "FRL01",
     "NUTS_NAME": "Alpes-de-Haute-Provence",
     "SPEI3": -4,
-    "PredictedProb": "0,613"
+    "PredictedProb": 0.613
   },
   {
     "NUTS3_ID": "FRL01",
     "NUTS_NAME": "Alpes-de-Haute-Provence",
     "SPEI3": -3,
-    "PredictedProb": "0,427"
+    "PredictedProb": 0.427
   },
   {
     "NUTS3_ID": "FRL01",
     "NUTS_NAME": "Alpes-de-Haute-Provence",
     "SPEI3": -2,
-    "PredictedProb": "0,259"
+    "PredictedProb": 0.259
   },
   {
     "NUTS3_ID": "FRL01",
     "NUTS_NAME": "Alpes-de-Haute-Provence",
     "SPEI3": -1,
-    "PredictedProb": "0,141"
+    "PredictedProb": 0.141
   },
   {
     "NUTS3_ID": "FRL01",
     "NUTS_NAME": "Alpes-de-Haute-Provence",
     "SPEI3": 0,
-    "PredictedProb": "0,071"
+    "PredictedProb": 0.071
   },
   {
     "NUTS3_ID": "FRL02",
     "NUTS_NAME": "Hautes-Alpes",
     "SPEI3": -4,
-    "PredictedProb": "0,016"
+    "PredictedProb": 0.016
   },
   {
     "NUTS3_ID": "FRL02",
     "NUTS_NAME": "Hautes-Alpes",
     "SPEI3": -3,
-    "PredictedProb": "0,017"
+    "PredictedProb": 0.017
   },
   {
     "NUTS3_ID": "FRL02",
     "NUTS_NAME": "Hautes-Alpes",
     "SPEI3": -2,
-    "PredictedProb": "0,018"
+    "PredictedProb": 0.018
   },
   {
     "NUTS3_ID": "FRL02",
     "NUTS_NAME": "Hautes-Alpes",
     "SPEI3": -1,
-    "PredictedProb": "0,019"
+    "PredictedProb": 0.019
   },
   {
     "NUTS3_ID": "FRL02",
     "NUTS_NAME": "Hautes-Alpes",
     "SPEI3": 0,
-    "PredictedProb": "0,020"
+    "PredictedProb": 0.02
   },
   {
     "NUTS3_ID": "FRL03",
     "NUTS_NAME": "Alpes-Maritimes",
     "SPEI3": -4,
-    "PredictedProb": "0,945"
+    "PredictedProb": 0.945
   },
   {
     "NUTS3_ID": "FRL03",
     "NUTS_NAME": "Alpes-Maritimes",
     "SPEI3": -3,
-    "PredictedProb": "0,684"
+    "PredictedProb": 0.684
   },
   {
     "NUTS3_ID": "FRL03",
     "NUTS_NAME": "Alpes-Maritimes",
     "SPEI3": -2,
-    "PredictedProb": "0,215"
+    "PredictedProb": 0.215
   },
   {
     "NUTS3_ID": "FRL03",
     "NUTS_NAME": "Alpes-Maritimes",
     "SPEI3": -1,
-    "PredictedProb": "0,033"
+    "PredictedProb": 0.033
   },
   {
     "NUTS3_ID": "FRL03",
     "NUTS_NAME": "Alpes-Maritimes",
     "SPEI3": 0,
-    "PredictedProb": "0,004"
+    "PredictedProb": 0.004
   },
   {
     "NUTS3_ID": "FRL04",
     "NUTS_NAME": "Bouches-du-Rhône",
     "SPEI3": -4,
-    "PredictedProb": "0,714"
+    "PredictedProb": 0.714
   },
   {
     "NUTS3_ID": "FRL04",
     "NUTS_NAME": "Bouches-du-Rhône",
     "SPEI3": -3,
-    "PredictedProb": "0,443"
+    "PredictedProb": 0.443
   },
   {
     "NUTS3_ID": "FRL04",
     "NUTS_NAME": "Bouches-du-Rhône",
     "SPEI3": -2,
-    "PredictedProb": "0,202"
+    "PredictedProb": 0.202
   },
   {
     "NUTS3_ID": "FRL04",
     "NUTS_NAME": "Bouches-du-Rhône",
     "SPEI3": -1,
-    "PredictedProb": "0,075"
+    "PredictedProb": 0.075
   },
   {
     "NUTS3_ID": "FRL04",
     "NUTS_NAME": "Bouches-du-Rhône",
     "SPEI3": 0,
-    "PredictedProb": "0,025"
+    "PredictedProb": 0.025
   },
   {
     "NUTS3_ID": "FRL05",
     "NUTS_NAME": "Var",
     "SPEI3": -4,
-    "PredictedProb": "0,061"
+    "PredictedProb": 0.061
   },
   {
     "NUTS3_ID": "FRL05",
     "NUTS_NAME": "Var",
     "SPEI3": -3,
-    "PredictedProb": "0,039"
+    "PredictedProb": 0.039
   },
   {
     "NUTS3_ID": "FRL05",
     "NUTS_NAME": "Var",
     "SPEI3": -2,
-    "PredictedProb": "0,025"
+    "PredictedProb": 0.025
   },
   {
     "NUTS3_ID": "FRL05",
     "NUTS_NAME": "Var",
     "SPEI3": -1,
-    "PredictedProb": "0,016"
+    "PredictedProb": 0.016
   },
   {
     "NUTS3_ID": "FRL05",
     "NUTS_NAME": "Var",
     "SPEI3": 0,
-    "PredictedProb": "0,010"
+    "PredictedProb": 0.01
   },
   {
     "NUTS3_ID": "FRL06",
     "NUTS_NAME": "Vaucluse",
     "SPEI3": -4,
-    "PredictedProb": "0,045"
+    "PredictedProb": 0.045
   },
   {
     "NUTS3_ID": "FRL06",
     "NUTS_NAME": "Vaucluse",
     "SPEI3": -3,
-    "PredictedProb": "0,023"
+    "PredictedProb": 0.023
   },
   {
     "NUTS3_ID": "FRL06",
     "NUTS_NAME": "Vaucluse",
     "SPEI3": -2,
-    "PredictedProb": "0,012"
+    "PredictedProb": 0.012
   },
   {
     "NUTS3_ID": "FRL06",
     "NUTS_NAME": "Vaucluse",
     "SPEI3": -1,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "FRL06",
     "NUTS_NAME": "Vaucluse",
     "SPEI3": 0,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "SPEI3": -4,
-    "PredictedProb": "0,617"
+    "PredictedProb": 0.617
   },
   {
     "NUTS3_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "SPEI3": -3,
-    "PredictedProb": "0,282"
+    "PredictedProb": 0.282
   },
   {
     "NUTS3_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "SPEI3": -2,
-    "PredictedProb": "0,087"
+    "PredictedProb": 0.087
   },
   {
     "NUTS3_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "SPEI3": -1,
-    "PredictedProb": "0,023"
+    "PredictedProb": 0.023
   },
   {
     "NUTS3_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "SPEI3": 0,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "ITC12",
@@ -3459,91 +3459,91 @@
     "NUTS3_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "SPEI3": -2,
-    "PredictedProb": "0,747"
+    "PredictedProb": 0.747
   },
   {
     "NUTS3_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "SPEI3": -2,
-    "PredictedProb": "0,619"
+    "PredictedProb": 0.619
   },
   {
     "NUTS3_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "SPEI3": -4,
-    "PredictedProb": "0,233"
+    "PredictedProb": 0.233
   },
   {
     "NUTS3_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "SPEI3": -3,
-    "PredictedProb": "0,111"
+    "PredictedProb": 0.111
   },
   {
     "NUTS3_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "SPEI3": -2,
-    "PredictedProb": "0,049"
+    "PredictedProb": 0.049
   },
   {
     "NUTS3_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "SPEI3": -1,
-    "PredictedProb": "0,021"
+    "PredictedProb": 0.021
   },
   {
     "NUTS3_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "ITC17",
@@ -3567,31 +3567,31 @@
     "NUTS3_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "SPEI3": -4,
-    "PredictedProb": "0,067"
+    "PredictedProb": 0.067
   },
   {
     "NUTS3_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "SPEI3": -3,
-    "PredictedProb": "0,043"
+    "PredictedProb": 0.043
   },
   {
     "NUTS3_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "SPEI3": -2,
-    "PredictedProb": "0,027"
+    "PredictedProb": 0.027
   },
   {
     "NUTS3_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "SPEI3": -1,
-    "PredictedProb": "0,017"
+    "PredictedProb": 0.017
   },
   {
     "NUTS3_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "SPEI3": 0,
-    "PredictedProb": "0,011"
+    "PredictedProb": 0.011
   },
   {
     "NUTS3_ID": "ITC32",
@@ -3609,241 +3609,241 @@
     "NUTS3_ID": "ITC34",
     "NUTS_NAME": "La Spezia",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC34",
     "NUTS_NAME": "La Spezia",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC34",
     "NUTS_NAME": "La Spezia",
     "SPEI3": -2,
-    "PredictedProb": "0,283"
+    "PredictedProb": 0.283
   },
   {
     "NUTS3_ID": "ITC34",
     "NUTS_NAME": "La Spezia",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC34",
     "NUTS_NAME": "La Spezia",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC41",
     "NUTS_NAME": "Varese",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC41",
     "NUTS_NAME": "Varese",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC41",
     "NUTS_NAME": "Varese",
     "SPEI3": -2,
-    "PredictedProb": "0,919"
+    "PredictedProb": 0.919
   },
   {
     "NUTS3_ID": "ITC41",
     "NUTS_NAME": "Varese",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC41",
     "NUTS_NAME": "Varese",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC42",
     "NUTS_NAME": "Como",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC42",
     "NUTS_NAME": "Como",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC42",
     "NUTS_NAME": "Como",
     "SPEI3": -2,
-    "PredictedProb": "0,706"
+    "PredictedProb": 0.706
   },
   {
     "NUTS3_ID": "ITC42",
     "NUTS_NAME": "Como",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC42",
     "NUTS_NAME": "Como",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC43",
     "NUTS_NAME": "Lecco",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC43",
     "NUTS_NAME": "Lecco",
     "SPEI3": -3,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC43",
     "NUTS_NAME": "Lecco",
     "SPEI3": -2,
-    "PredictedProb": "0,459"
+    "PredictedProb": 0.459
   },
   {
     "NUTS3_ID": "ITC43",
     "NUTS_NAME": "Lecco",
     "SPEI3": -1,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC43",
     "NUTS_NAME": "Lecco",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC44",
     "NUTS_NAME": "Sondrio",
     "SPEI3": -4,
-    "PredictedProb": "0,999"
+    "PredictedProb": 0.999
   },
   {
     "NUTS3_ID": "ITC44",
     "NUTS_NAME": "Sondrio",
     "SPEI3": -3,
-    "PredictedProb": "0,957"
+    "PredictedProb": 0.957
   },
   {
     "NUTS3_ID": "ITC44",
     "NUTS_NAME": "Sondrio",
     "SPEI3": -2,
-    "PredictedProb": "0,217"
+    "PredictedProb": 0.217
   },
   {
     "NUTS3_ID": "ITC44",
     "NUTS_NAME": "Sondrio",
     "SPEI3": -1,
-    "PredictedProb": "0,003"
+    "PredictedProb": 0.003
   },
   {
     "NUTS3_ID": "ITC44",
     "NUTS_NAME": "Sondrio",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "SPEI3": -4,
-    "PredictedProb": "0,947"
+    "PredictedProb": 0.947
   },
   {
     "NUTS3_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "SPEI3": -3,
-    "PredictedProb": "0,694"
+    "PredictedProb": 0.694
   },
   {
     "NUTS3_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "SPEI3": -2,
-    "PredictedProb": "0,223"
+    "PredictedProb": 0.223
   },
   {
     "NUTS3_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "SPEI3": -1,
-    "PredictedProb": "0,035"
+    "PredictedProb": 0.035
   },
   {
     "NUTS3_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "SPEI3": 0,
-    "PredictedProb": "0,005"
+    "PredictedProb": 0.005
   },
   {
     "NUTS3_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "SPEI3": -4,
-    "PredictedProb": "1,000"
+    "PredictedProb": 1
   },
   {
     "NUTS3_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "SPEI3": -3,
-    "PredictedProb": "0,974"
+    "PredictedProb": 0.974
   },
   {
     "NUTS3_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "SPEI3": -2,
-    "PredictedProb": "0,174"
+    "PredictedProb": 0.174
   },
   {
     "NUTS3_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "SPEI3": -1,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "ITC48",
     "NUTS_NAME": "Pavia",
     "SPEI3": -4,
-    "PredictedProb": "0,983"
+    "PredictedProb": 0.983
   },
   {
     "NUTS3_ID": "ITC48",
     "NUTS_NAME": "Pavia",
     "SPEI3": -3,
-    "PredictedProb": "0,787"
+    "PredictedProb": 0.787
   },
   {
     "NUTS3_ID": "ITC48",
     "NUTS_NAME": "Pavia",
     "SPEI3": -2,
-    "PredictedProb": "0,189"
+    "PredictedProb": 0.189
   },
   {
     "NUTS3_ID": "ITC48",
     "NUTS_NAME": "Pavia",
     "SPEI3": -1,
-    "PredictedProb": "0,014"
+    "PredictedProb": 0.014
   },
   {
     "NUTS3_ID": "ITC48",
     "NUTS_NAME": "Pavia",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "ITC49",
@@ -3861,31 +3861,31 @@
     "NUTS3_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "SPEI3": -4,
-    "PredictedProb": "0,658"
+    "PredictedProb": 0.658
   },
   {
     "NUTS3_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "SPEI3": -3,
-    "PredictedProb": "0,346"
+    "PredictedProb": 0.346
   },
   {
     "NUTS3_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "SPEI3": -2,
-    "PredictedProb": "0,127"
+    "PredictedProb": 0.127
   },
   {
     "NUTS3_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "SPEI3": -1,
-    "PredictedProb": "0,039"
+    "PredictedProb": 0.039
   },
   {
     "NUTS3_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "SPEI3": 0,
-    "PredictedProb": "0,011"
+    "PredictedProb": 0.011
   },
   {
     "NUTS3_ID": "ITC4C",
@@ -3945,61 +3945,61 @@
     "NUTS3_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "SPEI3": -4,
-    "PredictedProb": "0,187"
+    "PredictedProb": 0.187
   },
   {
     "NUTS3_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "SPEI3": -3,
-    "PredictedProb": "0,094"
+    "PredictedProb": 0.094
   },
   {
     "NUTS3_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "SPEI3": -2,
-    "PredictedProb": "0,045"
+    "PredictedProb": 0.045
   },
   {
     "NUTS3_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "SPEI3": -1,
-    "PredictedProb": "0,021"
+    "PredictedProb": 0.021
   },
   {
     "NUTS3_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "SPEI3": 0,
-    "PredictedProb": "0,009"
+    "PredictedProb": 0.009
   },
   {
     "NUTS3_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "SPEI3": -4,
-    "PredictedProb": "0,544"
+    "PredictedProb": 0.544
   },
   {
     "NUTS3_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "SPEI3": -3,
-    "PredictedProb": "0,242"
+    "PredictedProb": 0.242
   },
   {
     "NUTS3_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "SPEI3": -2,
-    "PredictedProb": "0,078"
+    "PredictedProb": 0.078
   },
   {
     "NUTS3_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "SPEI3": -1,
-    "PredictedProb": "0,022"
+    "PredictedProb": 0.022
   },
   {
     "NUTS3_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "SPEI3": 0,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "ITH41",
@@ -4035,61 +4035,61 @@
     "NUTS3_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "SPEI3": -4,
-    "PredictedProb": "0,977"
+    "PredictedProb": 0.977
   },
   {
     "NUTS3_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "SPEI3": -3,
-    "PredictedProb": "0,778"
+    "PredictedProb": 0.778
   },
   {
     "NUTS3_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "SPEI3": -2,
-    "PredictedProb": "0,223"
+    "PredictedProb": 0.223
   },
   {
     "NUTS3_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "SPEI3": -1,
-    "PredictedProb": "0,023"
+    "PredictedProb": 0.023
   },
   {
     "NUTS3_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "SPEI3": 0,
-    "PredictedProb": "0,002"
+    "PredictedProb": 0.002
   },
   {
     "NUTS3_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "SPEI3": -4,
-    "PredictedProb": "0,950"
+    "PredictedProb": 0.95
   },
   {
     "NUTS3_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "SPEI3": -3,
-    "PredictedProb": "0,621"
+    "PredictedProb": 0.621
   },
   {
     "NUTS3_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "SPEI3": -2,
-    "PredictedProb": "0,123"
+    "PredictedProb": 0.123
   },
   {
     "NUTS3_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "SPEI3": -1,
-    "PredictedProb": "0,012"
+    "PredictedProb": 0.012
   },
   {
     "NUTS3_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "SPEI3": 0,
-    "PredictedProb": "0,001"
+    "PredictedProb": 0.001
   },
   {
     "NUTS3_ID": "SI033",
@@ -4101,31 +4101,31 @@
     "NUTS3_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "SPEI3": -4,
-    "PredictedProb": "0,999"
+    "PredictedProb": 0.999
   },
   {
     "NUTS3_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "SPEI3": -3,
-    "PredictedProb": "0,961"
+    "PredictedProb": 0.961
   },
   {
     "NUTS3_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "SPEI3": -2,
-    "PredictedProb": "0,334"
+    "PredictedProb": 0.334
   },
   {
     "NUTS3_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "SPEI3": -1,
-    "PredictedProb": "0,010"
+    "PredictedProb": 0.01
   },
   {
     "NUTS3_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "SPEI3": 0,
-    "PredictedProb": "0,000"
+    "PredictedProb": 0
   },
   {
     "NUTS3_ID": "SI035",
@@ -4137,61 +4137,61 @@
     "NUTS3_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "SPEI3": -4,
-    "PredictedProb": "0,754"
+    "PredictedProb": 0.754
   },
   {
     "NUTS3_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "SPEI3": -3,
-    "PredictedProb": "0,392"
+    "PredictedProb": 0.392
   },
   {
     "NUTS3_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "SPEI3": -2,
-    "PredictedProb": "0,119"
+    "PredictedProb": 0.119
   },
   {
     "NUTS3_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "SPEI3": -1,
-    "PredictedProb": "0,027"
+    "PredictedProb": 0.027
   },
   {
     "NUTS3_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "SPEI3": 0,
-    "PredictedProb": "0,006"
+    "PredictedProb": 0.006
   },
   {
     "NUTS3_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "SPEI3": -4,
-    "PredictedProb": "0,920"
+    "PredictedProb": 0.92
   },
   {
     "NUTS3_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "SPEI3": -3,
-    "PredictedProb": "0,656"
+    "PredictedProb": 0.656
   },
   {
     "NUTS3_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "SPEI3": -2,
-    "PredictedProb": "0,239"
+    "PredictedProb": 0.239
   },
   {
     "NUTS3_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "SPEI3": -1,
-    "PredictedProb": "0,049"
+    "PredictedProb": 0.049
   },
   {
     "NUTS3_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "SPEI3": 0,
-    "PredictedProb": "0,008"
+    "PredictedProb": 0.008
   },
   {
     "NUTS3_ID": "SI038",
@@ -4215,60 +4215,60 @@
     "NUTS3_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "SPEI3": -4,
-    "PredictedProb": "0,146"
+    "PredictedProb": 0.146
   },
   {
     "NUTS3_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "SPEI3": -3,
-    "PredictedProb": "0,083"
+    "PredictedProb": 0.083
   },
   {
     "NUTS3_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "SPEI3": -2,
-    "PredictedProb": "0,046"
+    "PredictedProb": 0.046
   },
   {
     "NUTS3_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "SPEI3": -1,
-    "PredictedProb": "0,025"
+    "PredictedProb": 0.025
   },
   {
     "NUTS3_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "SPEI3": 0,
-    "PredictedProb": "0,013"
+    "PredictedProb": 0.013
   },
   {
     "NUTS3_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "SPEI3": -4,
-    "PredictedProb": "0,623"
+    "PredictedProb": 0.623
   },
   {
     "NUTS3_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "SPEI3": -3,
-    "PredictedProb": "0,299"
+    "PredictedProb": 0.299
   },
   {
     "NUTS3_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "SPEI3": -2,
-    "PredictedProb": "0,100"
+    "PredictedProb": 0.1
   },
   {
     "NUTS3_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "SPEI3": -1,
-    "PredictedProb": "0,028"
+    "PredictedProb": 0.028
   },
   {
     "NUTS3_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "SPEI3": 0,
-    "PredictedProb": "0,007"
+    "PredictedProb": 0.007
   }
 ]
