@@ -1,11 +1,5 @@
 [
   {
-    "NUTS3_ID": "NUTS3_ID",
-    "NUTS_NAME": "NUTS_NAME",
-    "SPEI3": "SPEI3",
-    "PredictedProb": "PredictedProb"
-  },
-  {
     "NUTS3_ID": "AT111",
     "NUTS_NAME": "Mittelburgenland",
     "SPEI3": null,
