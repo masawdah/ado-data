@@ -2,13 +2,6 @@
     "short_name": "SSPI-10",
     "long_name": "Standardized Snowpack Index",
     "abstract": "The SSPI provides information of the relative volume of the snowpack in the catchment on a ten-daily basis compared to the period of reference.",
-    "timerange": {
-        "type": "date",
-        "properties": {
-            "firstDate": "2022-02-22",
-            "lastDate": "2022-03-23"
-        }
-    },
     "colormap": {
         "id": "data",
         "type": "fill",
