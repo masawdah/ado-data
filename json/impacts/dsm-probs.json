@@ -9,121 +9,121 @@
     "NUTS_ID": "AT112",
     "NUTS_NAME": "Nordburgenland",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,333"
+    "DSM_PredictedProb": "0.333"
   },
   {
     "NUTS_ID": "AT112",
     "NUTS_NAME": "Nordburgenland",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,149"
+    "DSM_PredictedProb": "0.149"
   },
   {
     "NUTS_ID": "AT112",
     "NUTS_NAME": "Nordburgenland",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,058"
+    "DSM_PredictedProb": "0.058"
   },
   {
     "NUTS_ID": "AT112",
     "NUTS_NAME": "Nordburgenland",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "AT112",
     "NUTS_NAME": "Nordburgenland",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,032"
+    "DSM_PredictedProb": "0.032"
   },
   {
     "NUTS_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,01"
+    "DSM_PredictedProb": "0.01"
   },
   {
     "NUTS_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "AT113",
     "NUTS_NAME": "Südburgenland",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,338"
+    "DSM_PredictedProb": "0.338"
   },
   {
     "NUTS_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,134"
+    "DSM_PredictedProb": "0.134"
   },
   {
     "NUTS_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,045"
+    "DSM_PredictedProb": "0.045"
   },
   {
     "NUTS_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "AT121",
     "NUTS_NAME": "Mostviertel-Eisenwurzen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,244"
+    "DSM_PredictedProb": "0.244"
   },
   {
     "NUTS_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,125"
+    "DSM_PredictedProb": "0.125"
   },
   {
     "NUTS_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,06"
+    "DSM_PredictedProb": "0.06"
   },
   {
     "NUTS_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,027"
+    "DSM_PredictedProb": "0.027"
   },
   {
     "NUTS_ID": "AT122",
     "NUTS_NAME": "Niederösterreich-Süd",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "AT123",
@@ -135,91 +135,91 @@
     "NUTS_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,878"
+    "DSM_PredictedProb": "0.878"
   },
   {
     "NUTS_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,656"
+    "DSM_PredictedProb": "0.656"
   },
   {
     "NUTS_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,336"
+    "DSM_PredictedProb": "0.336"
   },
   {
     "NUTS_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,118"
+    "DSM_PredictedProb": "0.118"
   },
   {
     "NUTS_ID": "AT124",
     "NUTS_NAME": "Waldviertel",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,034"
+    "DSM_PredictedProb": "0.034"
   },
   {
     "NUTS_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,925"
+    "DSM_PredictedProb": "0.925"
   },
   {
     "NUTS_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,73"
+    "DSM_PredictedProb": "0.73"
   },
   {
     "NUTS_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,371"
+    "DSM_PredictedProb": "0.371"
   },
   {
     "NUTS_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,114"
+    "DSM_PredictedProb": "0.114"
   },
   {
     "NUTS_ID": "AT125",
     "NUTS_NAME": "Weinviertel",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,027"
+    "DSM_PredictedProb": "0.027"
   },
   {
     "NUTS_ID": "AT126",
     "NUTS_NAME": "Wiener Umland/Nordteil",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,667"
+    "DSM_PredictedProb": "0.667"
   },
   {
     "NUTS_ID": "AT126",
     "NUTS_NAME": "Wiener Umland/Nordteil",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,284"
+    "DSM_PredictedProb": "0.284"
   },
   {
     "NUTS_ID": "AT126",
     "NUTS_NAME": "Wiener Umland/Nordteil",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,073"
+    "DSM_PredictedProb": "0.073"
   },
   {
     "NUTS_ID": "AT126",
     "NUTS_NAME": "Wiener Umland/Nordteil",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "AT126",
     "NUTS_NAME": "Wiener Umland/Nordteil",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "AT127",
@@ -231,55 +231,55 @@
     "NUTS_ID": "AT130",
     "NUTS_NAME": "Wien",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,631"
+    "DSM_PredictedProb": "0.631"
   },
   {
     "NUTS_ID": "AT130",
     "NUTS_NAME": "Wien",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,311"
+    "DSM_PredictedProb": "0.311"
   },
   {
     "NUTS_ID": "AT130",
     "NUTS_NAME": "Wien",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,106"
+    "DSM_PredictedProb": "0.106"
   },
   {
     "NUTS_ID": "AT130",
     "NUTS_NAME": "Wien",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,03"
+    "DSM_PredictedProb": "0.03"
   },
   {
     "NUTS_ID": "AT130",
     "NUTS_NAME": "Wien",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,008"
+    "DSM_PredictedProb": "0.008"
   },
   {
     "NUTS_ID": "AT211",
     "NUTS_NAME": "Klagenfurt-Villach",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,847"
+    "DSM_PredictedProb": "0.847"
   },
   {
     "NUTS_ID": "AT211",
     "NUTS_NAME": "Klagenfurt-Villach",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,32"
+    "DSM_PredictedProb": "0.32"
   },
   {
     "NUTS_ID": "AT211",
     "NUTS_NAME": "Klagenfurt-Villach",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,038"
+    "DSM_PredictedProb": "0.038"
   },
   {
     "NUTS_ID": "AT211",
     "NUTS_NAME": "Klagenfurt-Villach",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "AT211",
@@ -291,91 +291,91 @@
     "NUTS_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,281"
+    "DSM_PredictedProb": "0.281"
   },
   {
     "NUTS_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,129"
+    "DSM_PredictedProb": "0.129"
   },
   {
     "NUTS_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,053"
+    "DSM_PredictedProb": "0.053"
   },
   {
     "NUTS_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "AT212",
     "NUTS_NAME": "Oberkärnten",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,008"
+    "DSM_PredictedProb": "0.008"
   },
   {
     "NUTS_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,714"
+    "DSM_PredictedProb": "0.714"
   },
   {
     "NUTS_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,301"
+    "DSM_PredictedProb": "0.301"
   },
   {
     "NUTS_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,069"
+    "DSM_PredictedProb": "0.069"
   },
   {
     "NUTS_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,013"
+    "DSM_PredictedProb": "0.013"
   },
   {
     "NUTS_ID": "AT213",
     "NUTS_NAME": "Unterkärnten",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,002"
+    "DSM_PredictedProb": "0.002"
   },
   {
     "NUTS_ID": "AT221",
     "NUTS_NAME": "Graz",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,996"
+    "DSM_PredictedProb": "0.996"
   },
   {
     "NUTS_ID": "AT221",
     "NUTS_NAME": "Graz",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,928"
+    "DSM_PredictedProb": "0.928"
   },
   {
     "NUTS_ID": "AT221",
     "NUTS_NAME": "Graz",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,378"
+    "DSM_PredictedProb": "0.378"
   },
   {
     "NUTS_ID": "AT221",
     "NUTS_NAME": "Graz",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,028"
+    "DSM_PredictedProb": "0.028"
   },
   {
     "NUTS_ID": "AT221",
     "NUTS_NAME": "Graz",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "AT222",
@@ -393,85 +393,85 @@
     "NUTS_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,472"
+    "DSM_PredictedProb": "0.472"
   },
   {
     "NUTS_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,186"
+    "DSM_PredictedProb": "0.186"
   },
   {
     "NUTS_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,055"
+    "DSM_PredictedProb": "0.055"
   },
   {
     "NUTS_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "AT224",
     "NUTS_NAME": "Oststeiermark",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,889"
+    "DSM_PredictedProb": "0.889"
   },
   {
     "NUTS_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,483"
+    "DSM_PredictedProb": "0.483"
   },
   {
     "NUTS_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,098"
+    "DSM_PredictedProb": "0.098"
   },
   {
     "NUTS_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "AT225",
     "NUTS_NAME": "West- und Südsteiermark",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,985"
+    "DSM_PredictedProb": "0.985"
   },
   {
     "NUTS_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,732"
+    "DSM_PredictedProb": "0.732"
   },
   {
     "NUTS_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,103"
+    "DSM_PredictedProb": "0.103"
   },
   {
     "NUTS_ID": "AT226",
     "NUTS_NAME": "Westliche Obersteiermark",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "AT226",
@@ -483,91 +483,91 @@
     "NUTS_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,84"
+    "DSM_PredictedProb": "0.84"
   },
   {
     "NUTS_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,51"
+    "DSM_PredictedProb": "0.51"
   },
   {
     "NUTS_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,171"
+    "DSM_PredictedProb": "0.171"
   },
   {
     "NUTS_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,039"
+    "DSM_PredictedProb": "0.039"
   },
   {
     "NUTS_ID": "AT311",
     "NUTS_NAME": "Innviertel",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,008"
+    "DSM_PredictedProb": "0.008"
   },
   {
     "NUTS_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,861"
+    "DSM_PredictedProb": "0.861"
   },
   {
     "NUTS_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,562"
+    "DSM_PredictedProb": "0.562"
   },
   {
     "NUTS_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,211"
+    "DSM_PredictedProb": "0.211"
   },
   {
     "NUTS_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,053"
+    "DSM_PredictedProb": "0.053"
   },
   {
     "NUTS_ID": "AT312",
     "NUTS_NAME": "Linz-Wels",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,521"
+    "DSM_PredictedProb": "0.521"
   },
   {
     "NUTS_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,325"
+    "DSM_PredictedProb": "0.325"
   },
   {
     "NUTS_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,176"
+    "DSM_PredictedProb": "0.176"
   },
   {
     "NUTS_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,087"
+    "DSM_PredictedProb": "0.087"
   },
   {
     "NUTS_ID": "AT313",
     "NUTS_NAME": "Mühlviertel",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,04"
+    "DSM_PredictedProb": "0.04"
   },
   {
     "NUTS_ID": "AT314",
@@ -579,121 +579,121 @@
     "NUTS_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,357"
+    "DSM_PredictedProb": "0.357"
   },
   {
     "NUTS_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,11"
+    "DSM_PredictedProb": "0.11"
   },
   {
     "NUTS_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,027"
+    "DSM_PredictedProb": "0.027"
   },
   {
     "NUTS_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "AT315",
     "NUTS_NAME": "Traunviertel",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,052"
+    "DSM_PredictedProb": "0.052"
   },
   {
     "NUTS_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,013"
+    "DSM_PredictedProb": "0.013"
   },
   {
     "NUTS_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "AT321",
     "NUTS_NAME": "Lungau",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,854"
+    "DSM_PredictedProb": "0.854"
   },
   {
     "NUTS_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,364"
+    "DSM_PredictedProb": "0.364"
   },
   {
     "NUTS_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,053"
+    "DSM_PredictedProb": "0.053"
   },
   {
     "NUTS_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "AT322",
     "NUTS_NAME": "Pinzgau-Pongau",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,504"
+    "DSM_PredictedProb": "0.504"
   },
   {
     "NUTS_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,261"
+    "DSM_PredictedProb": "0.261"
   },
   {
     "NUTS_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,11"
+    "DSM_PredictedProb": "0.11"
   },
   {
     "NUTS_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,041"
+    "DSM_PredictedProb": "0.041"
   },
   {
     "NUTS_ID": "AT323",
     "NUTS_NAME": "Salzburg und Umgebung",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "AT331",
@@ -705,31 +705,31 @@
     "NUTS_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,142"
+    "DSM_PredictedProb": "0.142"
   },
   {
     "NUTS_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,08"
+    "DSM_PredictedProb": "0.08"
   },
   {
     "NUTS_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,043"
+    "DSM_PredictedProb": "0.043"
   },
   {
     "NUTS_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,023"
+    "DSM_PredictedProb": "0.023"
   },
   {
     "NUTS_ID": "AT332",
     "NUTS_NAME": "Innsbruck",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "AT333",
@@ -741,91 +741,91 @@
     "NUTS_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,066"
+    "DSM_PredictedProb": "0.066"
   },
   {
     "NUTS_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,045"
+    "DSM_PredictedProb": "0.045"
   },
   {
     "NUTS_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,03"
+    "DSM_PredictedProb": "0.03"
   },
   {
     "NUTS_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "AT334",
     "NUTS_NAME": "Tiroler Oberland",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,192"
+    "DSM_PredictedProb": "0.192"
   },
   {
     "NUTS_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,067"
+    "DSM_PredictedProb": "0.067"
   },
   {
     "NUTS_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "AT335",
     "NUTS_NAME": "Tiroler Unterland",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,002"
+    "DSM_PredictedProb": "0.002"
   },
   {
     "NUTS_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,496"
+    "DSM_PredictedProb": "0.496"
   },
   {
     "NUTS_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,239"
+    "DSM_PredictedProb": "0.239"
   },
   {
     "NUTS_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,091"
+    "DSM_PredictedProb": "0.091"
   },
   {
     "NUTS_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,031"
+    "DSM_PredictedProb": "0.031"
   },
   {
     "NUTS_ID": "AT341",
     "NUTS_NAME": "Bludenz-Bregenzer Wald",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,01"
+    "DSM_PredictedProb": "0.01"
   },
   {
     "NUTS_ID": "AT342",
@@ -837,61 +837,61 @@
     "NUTS_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,836"
+    "DSM_PredictedProb": "0.836"
   },
   {
     "NUTS_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,358"
+    "DSM_PredictedProb": "0.358"
   },
   {
     "NUTS_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,058"
+    "DSM_PredictedProb": "0.058"
   },
   {
     "NUTS_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "CH011",
     "NUTS_NAME": "Vaud",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "CH012",
     "NUTS_NAME": "Valais",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,241"
+    "DSM_PredictedProb": "0.241"
   },
   {
     "NUTS_ID": "CH012",
     "NUTS_NAME": "Valais",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,197"
+    "DSM_PredictedProb": "0.197"
   },
   {
     "NUTS_ID": "CH012",
     "NUTS_NAME": "Valais",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,158"
+    "DSM_PredictedProb": "0.158"
   },
   {
     "NUTS_ID": "CH012",
     "NUTS_NAME": "Valais",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,127"
+    "DSM_PredictedProb": "0.127"
   },
   {
     "NUTS_ID": "CH012",
     "NUTS_NAME": "Valais",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,1"
+    "DSM_PredictedProb": "0.1"
   },
   {
     "NUTS_ID": "CH013",
@@ -903,271 +903,271 @@
     "NUTS_ID": "CH021",
     "NUTS_NAME": "Bern",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,875"
+    "DSM_PredictedProb": "0.875"
   },
   {
     "NUTS_ID": "CH021",
     "NUTS_NAME": "Bern",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,568"
+    "DSM_PredictedProb": "0.568"
   },
   {
     "NUTS_ID": "CH021",
     "NUTS_NAME": "Bern",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,197"
+    "DSM_PredictedProb": "0.197"
   },
   {
     "NUTS_ID": "CH021",
     "NUTS_NAME": "Bern",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,044"
+    "DSM_PredictedProb": "0.044"
   },
   {
     "NUTS_ID": "CH021",
     "NUTS_NAME": "Bern",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,008"
+    "DSM_PredictedProb": "0.008"
   },
   {
     "NUTS_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,216"
+    "DSM_PredictedProb": "0.216"
   },
   {
     "NUTS_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,118"
+    "DSM_PredictedProb": "0.118"
   },
   {
     "NUTS_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,061"
+    "DSM_PredictedProb": "0.061"
   },
   {
     "NUTS_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,031"
+    "DSM_PredictedProb": "0.031"
   },
   {
     "NUTS_ID": "CH022",
     "NUTS_NAME": "Freiburg",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,493"
+    "DSM_PredictedProb": "0.493"
   },
   {
     "NUTS_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,209"
+    "DSM_PredictedProb": "0.209"
   },
   {
     "NUTS_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,067"
+    "DSM_PredictedProb": "0.067"
   },
   {
     "NUTS_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,019"
+    "DSM_PredictedProb": "0.019"
   },
   {
     "NUTS_ID": "CH023",
     "NUTS_NAME": "Solothurn",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,231"
+    "DSM_PredictedProb": "0.231"
   },
   {
     "NUTS_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,076"
+    "DSM_PredictedProb": "0.076"
   },
   {
     "NUTS_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,022"
+    "DSM_PredictedProb": "0.022"
   },
   {
     "NUTS_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "CH024",
     "NUTS_NAME": "Neuchâtel",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,002"
+    "DSM_PredictedProb": "0.002"
   },
   {
     "NUTS_ID": "CH025",
     "NUTS_NAME": "Jura",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,361"
+    "DSM_PredictedProb": "0.361"
   },
   {
     "NUTS_ID": "CH025",
     "NUTS_NAME": "Jura",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,136"
+    "DSM_PredictedProb": "0.136"
   },
   {
     "NUTS_ID": "CH025",
     "NUTS_NAME": "Jura",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,042"
+    "DSM_PredictedProb": "0.042"
   },
   {
     "NUTS_ID": "CH025",
     "NUTS_NAME": "Jura",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "CH025",
     "NUTS_NAME": "Jura",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,321"
+    "DSM_PredictedProb": "0.321"
   },
   {
     "NUTS_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,153"
+    "DSM_PredictedProb": "0.153"
   },
   {
     "NUTS_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,065"
+    "DSM_PredictedProb": "0.065"
   },
   {
     "NUTS_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "CH031",
     "NUTS_NAME": "Basel-Stadt",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,01"
+    "DSM_PredictedProb": "0.01"
   },
   {
     "NUTS_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,304"
+    "DSM_PredictedProb": "0.304"
   },
   {
     "NUTS_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,147"
+    "DSM_PredictedProb": "0.147"
   },
   {
     "NUTS_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,064"
+    "DSM_PredictedProb": "0.064"
   },
   {
     "NUTS_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "CH032",
     "NUTS_NAME": "Basel-Landschaft",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,892"
+    "DSM_PredictedProb": "0.892"
   },
   {
     "NUTS_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,64"
+    "DSM_PredictedProb": "0.64"
   },
   {
     "NUTS_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,277"
+    "DSM_PredictedProb": "0.277"
   },
   {
     "NUTS_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,076"
+    "DSM_PredictedProb": "0.076"
   },
   {
     "NUTS_ID": "CH033",
     "NUTS_NAME": "Aargau",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,017"
+    "DSM_PredictedProb": "0.017"
   },
   {
     "NUTS_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,671"
+    "DSM_PredictedProb": "0.671"
   },
   {
     "NUTS_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,367"
+    "DSM_PredictedProb": "0.367"
   },
   {
     "NUTS_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,142"
+    "DSM_PredictedProb": "0.142"
   },
   {
     "NUTS_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,045"
+    "DSM_PredictedProb": "0.045"
   },
   {
     "NUTS_ID": "CH040",
     "NUTS_NAME": "Zürich",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,013"
+    "DSM_PredictedProb": "0.013"
   },
   {
     "NUTS_ID": "CH051",
@@ -1179,31 +1179,31 @@
     "NUTS_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,737"
+    "DSM_PredictedProb": "0.737"
   },
   {
     "NUTS_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,404"
+    "DSM_PredictedProb": "0.404"
   },
   {
     "NUTS_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,141"
+    "DSM_PredictedProb": "0.141"
   },
   {
     "NUTS_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,038"
+    "DSM_PredictedProb": "0.038"
   },
   {
     "NUTS_ID": "CH052",
     "NUTS_NAME": "Schaffhausen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,009"
+    "DSM_PredictedProb": "0.009"
   },
   {
     "NUTS_ID": "CH053",
@@ -1221,121 +1221,121 @@
     "NUTS_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,621"
+    "DSM_PredictedProb": "0.621"
   },
   {
     "NUTS_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,225"
+    "DSM_PredictedProb": "0.225"
   },
   {
     "NUTS_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,049"
+    "DSM_PredictedProb": "0.049"
   },
   {
     "NUTS_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,009"
+    "DSM_PredictedProb": "0.009"
   },
   {
     "NUTS_ID": "CH055",
     "NUTS_NAME": "St. Gallen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,002"
+    "DSM_PredictedProb": "0.002"
   },
   {
     "NUTS_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,227"
+    "DSM_PredictedProb": "0.227"
   },
   {
     "NUTS_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,17"
+    "DSM_PredictedProb": "0.17"
   },
   {
     "NUTS_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,125"
+    "DSM_PredictedProb": "0.125"
   },
   {
     "NUTS_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,09"
+    "DSM_PredictedProb": "0.09"
   },
   {
     "NUTS_ID": "CH056",
     "NUTS_NAME": "Graubünden",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,065"
+    "DSM_PredictedProb": "0.065"
   },
   {
     "NUTS_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,705"
+    "DSM_PredictedProb": "0.705"
   },
   {
     "NUTS_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,392"
+    "DSM_PredictedProb": "0.392"
   },
   {
     "NUTS_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,148"
+    "DSM_PredictedProb": "0.148"
   },
   {
     "NUTS_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,045"
+    "DSM_PredictedProb": "0.045"
   },
   {
     "NUTS_ID": "CH057",
     "NUTS_NAME": "Thurgau",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,825"
+    "DSM_PredictedProb": "0.825"
   },
   {
     "NUTS_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,53"
+    "DSM_PredictedProb": "0.53"
   },
   {
     "NUTS_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,213"
+    "DSM_PredictedProb": "0.213"
   },
   {
     "NUTS_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,061"
+    "DSM_PredictedProb": "0.061"
   },
   {
     "NUTS_ID": "CH061",
     "NUTS_NAME": "Luzern",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "CH062",
@@ -1353,61 +1353,61 @@
     "NUTS_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,443"
+    "DSM_PredictedProb": "0.443"
   },
   {
     "NUTS_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,132"
+    "DSM_PredictedProb": "0.132"
   },
   {
     "NUTS_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,028"
+    "DSM_PredictedProb": "0.028"
   },
   {
     "NUTS_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "CH064",
     "NUTS_NAME": "Obwalden",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,052"
+    "DSM_PredictedProb": "0.052"
   },
   {
     "NUTS_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,035"
+    "DSM_PredictedProb": "0.035"
   },
   {
     "NUTS_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,024"
+    "DSM_PredictedProb": "0.024"
   },
   {
     "NUTS_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "CH065",
     "NUTS_NAME": "Nidwalden",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "CH066",
@@ -1425,301 +1425,301 @@
     "NUTS_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,045"
+    "DSM_PredictedProb": "0.045"
   },
   {
     "NUTS_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,032"
+    "DSM_PredictedProb": "0.032"
   },
   {
     "NUTS_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,022"
+    "DSM_PredictedProb": "0.022"
   },
   {
     "NUTS_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "DE131",
     "NUTS_NAME": "Freiburg im Breisgau, Stadtkreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,28"
+    "DSM_PredictedProb": "0.28"
   },
   {
     "NUTS_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,196"
+    "DSM_PredictedProb": "0.196"
   },
   {
     "NUTS_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,133"
+    "DSM_PredictedProb": "0.133"
   },
   {
     "NUTS_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,088"
+    "DSM_PredictedProb": "0.088"
   },
   {
     "NUTS_ID": "DE132",
     "NUTS_NAME": "Breisgau-Hochschwarzwald",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,057"
+    "DSM_PredictedProb": "0.057"
   },
   {
     "NUTS_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,267"
+    "DSM_PredictedProb": "0.267"
   },
   {
     "NUTS_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,176"
+    "DSM_PredictedProb": "0.176"
   },
   {
     "NUTS_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,111"
+    "DSM_PredictedProb": "0.111"
   },
   {
     "NUTS_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,068"
+    "DSM_PredictedProb": "0.068"
   },
   {
     "NUTS_ID": "DE133",
     "NUTS_NAME": "Emmendingen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,041"
+    "DSM_PredictedProb": "0.041"
   },
   {
     "NUTS_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,327"
+    "DSM_PredictedProb": "0.327"
   },
   {
     "NUTS_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,172"
+    "DSM_PredictedProb": "0.172"
   },
   {
     "NUTS_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,081"
+    "DSM_PredictedProb": "0.081"
   },
   {
     "NUTS_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,036"
+    "DSM_PredictedProb": "0.036"
   },
   {
     "NUTS_ID": "DE134",
     "NUTS_NAME": "Ortenaukreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "DE135",
     "NUTS_NAME": "Rottweil",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,033"
+    "DSM_PredictedProb": "0.033"
   },
   {
     "NUTS_ID": "DE135",
     "NUTS_NAME": "Rottweil",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,025"
+    "DSM_PredictedProb": "0.025"
   },
   {
     "NUTS_ID": "DE135",
     "NUTS_NAME": "Rottweil",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,019"
+    "DSM_PredictedProb": "0.019"
   },
   {
     "NUTS_ID": "DE135",
     "NUTS_NAME": "Rottweil",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "DE135",
     "NUTS_NAME": "Rottweil",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,055"
+    "DSM_PredictedProb": "0.055"
   },
   {
     "NUTS_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,048"
+    "DSM_PredictedProb": "0.048"
   },
   {
     "NUTS_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,041"
+    "DSM_PredictedProb": "0.041"
   },
   {
     "NUTS_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,036"
+    "DSM_PredictedProb": "0.036"
   },
   {
     "NUTS_ID": "DE136",
     "NUTS_NAME": "Schwarzwald-Baar-Kreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,031"
+    "DSM_PredictedProb": "0.031"
   },
   {
     "NUTS_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,017"
+    "DSM_PredictedProb": "0.017"
   },
   {
     "NUTS_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "DE137",
     "NUTS_NAME": "Tuttlingen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "DE138",
     "NUTS_NAME": "Konstanz",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,298"
+    "DSM_PredictedProb": "0.298"
   },
   {
     "NUTS_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,179"
+    "DSM_PredictedProb": "0.179"
   },
   {
     "NUTS_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,101"
+    "DSM_PredictedProb": "0.101"
   },
   {
     "NUTS_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,055"
+    "DSM_PredictedProb": "0.055"
   },
   {
     "NUTS_ID": "DE139",
     "NUTS_NAME": "Lörrach",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,029"
+    "DSM_PredictedProb": "0.029"
   },
   {
     "NUTS_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,365"
+    "DSM_PredictedProb": "0.365"
   },
   {
     "NUTS_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,229"
+    "DSM_PredictedProb": "0.229"
   },
   {
     "NUTS_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,133"
+    "DSM_PredictedProb": "0.133"
   },
   {
     "NUTS_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,073"
+    "DSM_PredictedProb": "0.073"
   },
   {
     "NUTS_ID": "DE13A",
     "NUTS_NAME": "Waldshut",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,039"
+    "DSM_PredictedProb": "0.039"
   },
   {
     "NUTS_ID": "DE141",
@@ -1737,289 +1737,289 @@
     "NUTS_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "DE141",
     "NUTS_NAME": "Reutlingen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,01"
+    "DSM_PredictedProb": "0.01"
   },
   {
     "NUTS_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,028"
+    "DSM_PredictedProb": "0.028"
   },
   {
     "NUTS_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,022"
+    "DSM_PredictedProb": "0.022"
   },
   {
     "NUTS_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "DE142",
     "NUTS_NAME": "Tübingen, Landkreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,017"
+    "DSM_PredictedProb": "0.017"
   },
   {
     "NUTS_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "DE143",
     "NUTS_NAME": "Zollernalbkreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,569"
+    "DSM_PredictedProb": "0.569"
   },
   {
     "NUTS_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,236"
+    "DSM_PredictedProb": "0.236"
   },
   {
     "NUTS_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,067"
+    "DSM_PredictedProb": "0.067"
   },
   {
     "NUTS_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,017"
+    "DSM_PredictedProb": "0.017"
   },
   {
     "NUTS_ID": "DE144",
     "NUTS_NAME": "Ulm, Stadtkreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "DE145",
     "NUTS_NAME": "Alb-Donau-Kreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,383"
+    "DSM_PredictedProb": "0.383"
   },
   {
     "NUTS_ID": "DE145",
     "NUTS_NAME": "Alb-Donau-Kreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,198"
+    "DSM_PredictedProb": "0.198"
   },
   {
     "NUTS_ID": "DE145",
     "NUTS_NAME": "Alb-Donau-Kreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,09"
+    "DSM_PredictedProb": "0.09"
   },
   {
     "NUTS_ID": "DE145",
     "NUTS_NAME": "Alb-Donau-Kreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,038"
+    "DSM_PredictedProb": "0.038"
   },
   {
     "NUTS_ID": "DE145",
     "NUTS_NAME": "Alb-Donau-Kreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,013"
+    "DSM_PredictedProb": "0.013"
   },
   {
     "NUTS_ID": "DE146",
     "NUTS_NAME": "Biberach",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,432"
+    "DSM_PredictedProb": "0.432"
   },
   {
     "NUTS_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,221"
+    "DSM_PredictedProb": "0.221"
   },
   {
     "NUTS_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,096"
+    "DSM_PredictedProb": "0.096"
   },
   {
     "NUTS_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,038"
+    "DSM_PredictedProb": "0.038"
   },
   {
     "NUTS_ID": "DE147",
     "NUTS_NAME": "Bodenseekreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,015"
+    "DSM_PredictedProb": "0.015"
   },
   {
     "NUTS_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,013"
+    "DSM_PredictedProb": "0.013"
   },
   {
     "NUTS_ID": "DE148",
     "NUTS_NAME": "Ravensburg",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,374"
+    "DSM_PredictedProb": "0.374"
   },
   {
     "NUTS_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,195"
+    "DSM_PredictedProb": "0.195"
   },
   {
     "NUTS_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,089"
+    "DSM_PredictedProb": "0.089"
   },
   {
     "NUTS_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,038"
+    "DSM_PredictedProb": "0.038"
   },
   {
     "NUTS_ID": "DE149",
     "NUTS_NAME": "Sigmaringen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,008"
+    "DSM_PredictedProb": "0.008"
   },
   {
     "NUTS_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "DE211",
     "NUTS_NAME": "Ingolstadt, Kreisfreie Stadt",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "DE212",
@@ -2049,121 +2049,121 @@
     "NUTS_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,259"
+    "DSM_PredictedProb": "0.259"
   },
   {
     "NUTS_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,116"
+    "DSM_PredictedProb": "0.116"
   },
   {
     "NUTS_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,047"
+    "DSM_PredictedProb": "0.047"
   },
   {
     "NUTS_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "DE216",
     "NUTS_NAME": "Bad Tölz-Wolfratshausen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,293"
+    "DSM_PredictedProb": "0.293"
   },
   {
     "NUTS_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,088"
+    "DSM_PredictedProb": "0.088"
   },
   {
     "NUTS_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,022"
+    "DSM_PredictedProb": "0.022"
   },
   {
     "NUTS_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "DE217",
     "NUTS_NAME": "Dachau",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,51"
+    "DSM_PredictedProb": "0.51"
   },
   {
     "NUTS_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,143"
+    "DSM_PredictedProb": "0.143"
   },
   {
     "NUTS_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "DE218",
     "NUTS_NAME": "Ebersberg",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,262"
+    "DSM_PredictedProb": "0.262"
   },
   {
     "NUTS_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,13"
+    "DSM_PredictedProb": "0.13"
   },
   {
     "NUTS_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,059"
+    "DSM_PredictedProb": "0.059"
   },
   {
     "NUTS_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "DE219",
     "NUTS_NAME": "Eichstätt",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,011"
+    "DSM_PredictedProb": "0.011"
   },
   {
     "NUTS_ID": "DE21A",
@@ -2175,31 +2175,31 @@
     "NUTS_ID": "DE21B",
     "NUTS_NAME": "Freising",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,929"
+    "DSM_PredictedProb": "0.929"
   },
   {
     "NUTS_ID": "DE21B",
     "NUTS_NAME": "Freising",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,608"
+    "DSM_PredictedProb": "0.608"
   },
   {
     "NUTS_ID": "DE21B",
     "NUTS_NAME": "Freising",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,156"
+    "DSM_PredictedProb": "0.156"
   },
   {
     "NUTS_ID": "DE21B",
     "NUTS_NAME": "Freising",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,022"
+    "DSM_PredictedProb": "0.022"
   },
   {
     "NUTS_ID": "DE21B",
     "NUTS_NAME": "Freising",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "DE21C",
@@ -2223,31 +2223,31 @@
     "NUTS_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,182"
+    "DSM_PredictedProb": "0.182"
   },
   {
     "NUTS_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,061"
+    "DSM_PredictedProb": "0.061"
   },
   {
     "NUTS_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,019"
+    "DSM_PredictedProb": "0.019"
   },
   {
     "NUTS_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "DE21F",
     "NUTS_NAME": "Miesbach",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,002"
+    "DSM_PredictedProb": "0.002"
   },
   {
     "NUTS_ID": "DE21G",
@@ -2265,31 +2265,31 @@
     "NUTS_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,009"
+    "DSM_PredictedProb": "0.009"
   },
   {
     "NUTS_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "DE21I",
     "NUTS_NAME": "Neuburg-Schrobenhausen",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "DE21J",
@@ -2307,31 +2307,31 @@
     "NUTS_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,299"
+    "DSM_PredictedProb": "0.299"
   },
   {
     "NUTS_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,13"
+    "DSM_PredictedProb": "0.13"
   },
   {
     "NUTS_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,05"
+    "DSM_PredictedProb": "0.05"
   },
   {
     "NUTS_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "DE21L",
     "NUTS_NAME": "Starnberg",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "DE21M",
@@ -2343,19 +2343,19 @@
     "NUTS_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,893"
+    "DSM_PredictedProb": "0.893"
   },
   {
     "NUTS_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,186"
+    "DSM_PredictedProb": "0.186"
   },
   {
     "NUTS_ID": "DE21N",
     "NUTS_NAME": "Weilheim-Schongau",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "DE21N",
@@ -2397,61 +2397,61 @@
     "NUTS_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,154"
+    "DSM_PredictedProb": "0.154"
   },
   {
     "NUTS_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,106"
+    "DSM_PredictedProb": "0.106"
   },
   {
     "NUTS_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,072"
+    "DSM_PredictedProb": "0.072"
   },
   {
     "NUTS_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,048"
+    "DSM_PredictedProb": "0.048"
   },
   {
     "NUTS_ID": "DE275",
     "NUTS_NAME": "Aichach-Friedberg",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,032"
+    "DSM_PredictedProb": "0.032"
   },
   {
     "NUTS_ID": "DE276",
     "NUTS_NAME": "Augsburg, Landkreis",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,336"
+    "DSM_PredictedProb": "0.336"
   },
   {
     "NUTS_ID": "DE276",
     "NUTS_NAME": "Augsburg, Landkreis",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,196"
+    "DSM_PredictedProb": "0.196"
   },
   {
     "NUTS_ID": "DE276",
     "NUTS_NAME": "Augsburg, Landkreis",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,105"
+    "DSM_PredictedProb": "0.105"
   },
   {
     "NUTS_ID": "DE276",
     "NUTS_NAME": "Augsburg, Landkreis",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,054"
+    "DSM_PredictedProb": "0.054"
   },
   {
     "NUTS_ID": "DE276",
     "NUTS_NAME": "Augsburg, Landkreis",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,027"
+    "DSM_PredictedProb": "0.027"
   },
   {
     "NUTS_ID": "DE277",
@@ -2493,31 +2493,31 @@
     "NUTS_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,019"
+    "DSM_PredictedProb": "0.019"
   },
   {
     "NUTS_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,013"
+    "DSM_PredictedProb": "0.013"
   },
   {
     "NUTS_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,008"
+    "DSM_PredictedProb": "0.008"
   },
   {
     "NUTS_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "DE27D",
     "NUTS_NAME": "Donau-Ries",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "DE27E",
@@ -2589,61 +2589,61 @@
     "NUTS_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,626"
+    "DSM_PredictedProb": "0.626"
   },
   {
     "NUTS_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,195"
+    "DSM_PredictedProb": "0.195"
   },
   {
     "NUTS_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,034"
+    "DSM_PredictedProb": "0.034"
   },
   {
     "NUTS_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "FRK25",
     "NUTS_NAME": "Loire",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,002"
+    "DSM_PredictedProb": "0.002"
   },
   {
     "NUTS_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,003"
+    "DSM_PredictedProb": "0.003"
   },
   {
     "NUTS_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "FRK26",
     "NUTS_NAME": "Rhône",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,004"
+    "DSM_PredictedProb": "0.004"
   },
   {
     "NUTS_ID": "FRK27",
@@ -2697,241 +2697,241 @@
     "NUTS_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,662"
+    "DSM_PredictedProb": "0.662"
   },
   {
     "NUTS_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,388"
+    "DSM_PredictedProb": "0.388"
   },
   {
     "NUTS_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,171"
+    "DSM_PredictedProb": "0.171"
   },
   {
     "NUTS_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,062"
+    "DSM_PredictedProb": "0.062"
   },
   {
     "NUTS_ID": "ITC11",
     "NUTS_NAME": "Torino",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "ITC12",
     "NUTS_NAME": "Vercelli",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,17"
+    "DSM_PredictedProb": "0.17"
   },
   {
     "NUTS_ID": "ITC12",
     "NUTS_NAME": "Vercelli",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,108"
+    "DSM_PredictedProb": "0.108"
   },
   {
     "NUTS_ID": "ITC12",
     "NUTS_NAME": "Vercelli",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,067"
+    "DSM_PredictedProb": "0.067"
   },
   {
     "NUTS_ID": "ITC12",
     "NUTS_NAME": "Vercelli",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,041"
+    "DSM_PredictedProb": "0.041"
   },
   {
     "NUTS_ID": "ITC12",
     "NUTS_NAME": "Vercelli",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,025"
+    "DSM_PredictedProb": "0.025"
   },
   {
     "NUTS_ID": "ITC13",
     "NUTS_NAME": "Biella",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,118"
+    "DSM_PredictedProb": "0.118"
   },
   {
     "NUTS_ID": "ITC13",
     "NUTS_NAME": "Biella",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,082"
+    "DSM_PredictedProb": "0.082"
   },
   {
     "NUTS_ID": "ITC13",
     "NUTS_NAME": "Biella",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,056"
+    "DSM_PredictedProb": "0.056"
   },
   {
     "NUTS_ID": "ITC13",
     "NUTS_NAME": "Biella",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,038"
+    "DSM_PredictedProb": "0.038"
   },
   {
     "NUTS_ID": "ITC13",
     "NUTS_NAME": "Biella",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,026"
+    "DSM_PredictedProb": "0.026"
   },
   {
     "NUTS_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,045"
+    "DSM_PredictedProb": "0.045"
   },
   {
     "NUTS_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,038"
+    "DSM_PredictedProb": "0.038"
   },
   {
     "NUTS_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,032"
+    "DSM_PredictedProb": "0.032"
   },
   {
     "NUTS_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,027"
+    "DSM_PredictedProb": "0.027"
   },
   {
     "NUTS_ID": "ITC14",
     "NUTS_NAME": "Verbano-Cusio-Ossola",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,023"
+    "DSM_PredictedProb": "0.023"
   },
   {
     "NUTS_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,046"
+    "DSM_PredictedProb": "0.046"
   },
   {
     "NUTS_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,039"
+    "DSM_PredictedProb": "0.039"
   },
   {
     "NUTS_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,033"
+    "DSM_PredictedProb": "0.033"
   },
   {
     "NUTS_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,028"
+    "DSM_PredictedProb": "0.028"
   },
   {
     "NUTS_ID": "ITC15",
     "NUTS_NAME": "Novara",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,023"
+    "DSM_PredictedProb": "0.023"
   },
   {
     "NUTS_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,761"
+    "DSM_PredictedProb": "0.761"
   },
   {
     "NUTS_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,473"
+    "DSM_PredictedProb": "0.473"
   },
   {
     "NUTS_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,202"
+    "DSM_PredictedProb": "0.202"
   },
   {
     "NUTS_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,066"
+    "DSM_PredictedProb": "0.066"
   },
   {
     "NUTS_ID": "ITC16",
     "NUTS_NAME": "Cuneo",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,02"
+    "DSM_PredictedProb": "0.02"
   },
   {
     "NUTS_ID": "ITC17",
     "NUTS_NAME": "Asti",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,373"
+    "DSM_PredictedProb": "0.373"
   },
   {
     "NUTS_ID": "ITC17",
     "NUTS_NAME": "Asti",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,198"
+    "DSM_PredictedProb": "0.198"
   },
   {
     "NUTS_ID": "ITC17",
     "NUTS_NAME": "Asti",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,093"
+    "DSM_PredictedProb": "0.093"
   },
   {
     "NUTS_ID": "ITC17",
     "NUTS_NAME": "Asti",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,041"
+    "DSM_PredictedProb": "0.041"
   },
   {
     "NUTS_ID": "ITC17",
     "NUTS_NAME": "Asti",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,017"
+    "DSM_PredictedProb": "0.017"
   },
   {
     "NUTS_ID": "ITC18",
     "NUTS_NAME": "Alessandria",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,482"
+    "DSM_PredictedProb": "0.482"
   },
   {
     "NUTS_ID": "ITC18",
     "NUTS_NAME": "Alessandria",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,253"
+    "DSM_PredictedProb": "0.253"
   },
   {
     "NUTS_ID": "ITC18",
     "NUTS_NAME": "Alessandria",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,109"
+    "DSM_PredictedProb": "0.109"
   },
   {
     "NUTS_ID": "ITC18",
     "NUTS_NAME": "Alessandria",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,043"
+    "DSM_PredictedProb": "0.043"
   },
   {
     "NUTS_ID": "ITC18",
     "NUTS_NAME": "Alessandria",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "ITC20",
@@ -2943,31 +2943,31 @@
     "NUTS_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,053"
+    "DSM_PredictedProb": "0.053"
   },
   {
     "NUTS_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,048"
+    "DSM_PredictedProb": "0.048"
   },
   {
     "NUTS_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,043"
+    "DSM_PredictedProb": "0.043"
   },
   {
     "NUTS_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,039"
+    "DSM_PredictedProb": "0.039"
   },
   {
     "NUTS_ID": "ITC31",
     "NUTS_NAME": "Imperia",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,035"
+    "DSM_PredictedProb": "0.035"
   },
   {
     "NUTS_ID": "ITC32",
@@ -2979,31 +2979,31 @@
     "NUTS_ID": "ITC33",
     "NUTS_NAME": "Genova",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,02"
+    "DSM_PredictedProb": "0.02"
   },
   {
     "NUTS_ID": "ITC33",
     "NUTS_NAME": "Genova",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,024"
+    "DSM_PredictedProb": "0.024"
   },
   {
     "NUTS_ID": "ITC33",
     "NUTS_NAME": "Genova",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,027"
+    "DSM_PredictedProb": "0.027"
   },
   {
     "NUTS_ID": "ITC33",
     "NUTS_NAME": "Genova",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,031"
+    "DSM_PredictedProb": "0.031"
   },
   {
     "NUTS_ID": "ITC33",
     "NUTS_NAME": "Genova",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,036"
+    "DSM_PredictedProb": "0.036"
   },
   {
     "NUTS_ID": "ITC34",
@@ -3021,31 +3021,31 @@
     "NUTS_ID": "ITC42",
     "NUTS_NAME": "Como",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,099"
+    "DSM_PredictedProb": "0.099"
   },
   {
     "NUTS_ID": "ITC42",
     "NUTS_NAME": "Como",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,057"
+    "DSM_PredictedProb": "0.057"
   },
   {
     "NUTS_ID": "ITC42",
     "NUTS_NAME": "Como",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,032"
+    "DSM_PredictedProb": "0.032"
   },
   {
     "NUTS_ID": "ITC42",
     "NUTS_NAME": "Como",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,018"
+    "DSM_PredictedProb": "0.018"
   },
   {
     "NUTS_ID": "ITC42",
     "NUTS_NAME": "Como",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,01"
+    "DSM_PredictedProb": "0.01"
   },
   {
     "NUTS_ID": "ITC43",
@@ -3063,61 +3063,61 @@
     "NUTS_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,256"
+    "DSM_PredictedProb": "0.256"
   },
   {
     "NUTS_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,159"
+    "DSM_PredictedProb": "0.159"
   },
   {
     "NUTS_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,094"
+    "DSM_PredictedProb": "0.094"
   },
   {
     "NUTS_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,054"
+    "DSM_PredictedProb": "0.054"
   },
   {
     "NUTS_ID": "ITC46",
     "NUTS_NAME": "Bergamo",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,03"
+    "DSM_PredictedProb": "0.03"
   },
   {
     "NUTS_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,667"
+    "DSM_PredictedProb": "0.667"
   },
   {
     "NUTS_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,367"
+    "DSM_PredictedProb": "0.367"
   },
   {
     "NUTS_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,144"
+    "DSM_PredictedProb": "0.144"
   },
   {
     "NUTS_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,046"
+    "DSM_PredictedProb": "0.046"
   },
   {
     "NUTS_ID": "ITC47",
     "NUTS_NAME": "Brescia",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "ITC48",
@@ -3135,91 +3135,91 @@
     "NUTS_ID": "ITC4A",
     "NUTS_NAME": "Cremona",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,541"
+    "DSM_PredictedProb": "0.541"
   },
   {
     "NUTS_ID": "ITC4A",
     "NUTS_NAME": "Cremona",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,244"
+    "DSM_PredictedProb": "0.244"
   },
   {
     "NUTS_ID": "ITC4A",
     "NUTS_NAME": "Cremona",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,081"
+    "DSM_PredictedProb": "0.081"
   },
   {
     "NUTS_ID": "ITC4A",
     "NUTS_NAME": "Cremona",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,024"
+    "DSM_PredictedProb": "0.024"
   },
   {
     "NUTS_ID": "ITC4A",
     "NUTS_NAME": "Cremona",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,896"
+    "DSM_PredictedProb": "0.896"
   },
   {
     "NUTS_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,571"
+    "DSM_PredictedProb": "0.571"
   },
   {
     "NUTS_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,171"
+    "DSM_PredictedProb": "0.171"
   },
   {
     "NUTS_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,031"
+    "DSM_PredictedProb": "0.031"
   },
   {
     "NUTS_ID": "ITC4B",
     "NUTS_NAME": "Mantova",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,005"
+    "DSM_PredictedProb": "0.005"
   },
   {
     "NUTS_ID": "ITC4C",
     "NUTS_NAME": "Milano",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,19"
+    "DSM_PredictedProb": "0.19"
   },
   {
     "NUTS_ID": "ITC4C",
     "NUTS_NAME": "Milano",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,068"
+    "DSM_PredictedProb": "0.068"
   },
   {
     "NUTS_ID": "ITC4C",
     "NUTS_NAME": "Milano",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,022"
+    "DSM_PredictedProb": "0.022"
   },
   {
     "NUTS_ID": "ITC4C",
     "NUTS_NAME": "Milano",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,007"
+    "DSM_PredictedProb": "0.007"
   },
   {
     "NUTS_ID": "ITC4C",
     "NUTS_NAME": "Milano",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,002"
+    "DSM_PredictedProb": "0.002"
   },
   {
     "NUTS_ID": "ITC4D",
@@ -3261,31 +3261,31 @@
     "NUTS_ID": "ITH34",
     "NUTS_NAME": "Trevise",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,01"
+    "DSM_PredictedProb": "0.01"
   },
   {
     "NUTS_ID": "ITH34",
     "NUTS_NAME": "Trevise",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,012"
+    "DSM_PredictedProb": "0.012"
   },
   {
     "NUTS_ID": "ITH34",
     "NUTS_NAME": "Trevise",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "ITH34",
     "NUTS_NAME": "Trevise",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,017"
+    "DSM_PredictedProb": "0.017"
   },
   {
     "NUTS_ID": "ITH34",
     "NUTS_NAME": "Trevise",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,02"
+    "DSM_PredictedProb": "0.02"
   },
   {
     "NUTS_ID": "ITH35",
@@ -3297,61 +3297,61 @@
     "NUTS_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,732"
+    "DSM_PredictedProb": "0.732"
   },
   {
     "NUTS_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,448"
+    "DSM_PredictedProb": "0.448"
   },
   {
     "NUTS_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,195"
+    "DSM_PredictedProb": "0.195"
   },
   {
     "NUTS_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,067"
+    "DSM_PredictedProb": "0.067"
   },
   {
     "NUTS_ID": "ITH36",
     "NUTS_NAME": "Padova",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,021"
+    "DSM_PredictedProb": "0.021"
   },
   {
     "NUTS_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,709"
+    "DSM_PredictedProb": "0.709"
   },
   {
     "NUTS_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,411"
+    "DSM_PredictedProb": "0.411"
   },
   {
     "NUTS_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,166"
+    "DSM_PredictedProb": "0.166"
   },
   {
     "NUTS_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,054"
+    "DSM_PredictedProb": "0.054"
   },
   {
     "NUTS_ID": "ITH37",
     "NUTS_NAME": "Rovigo",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,016"
+    "DSM_PredictedProb": "0.016"
   },
   {
     "NUTS_ID": "ITH41",
@@ -3387,61 +3387,61 @@
     "NUTS_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,834"
+    "DSM_PredictedProb": "0.834"
   },
   {
     "NUTS_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,681"
+    "DSM_PredictedProb": "0.681"
   },
   {
     "NUTS_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,476"
+    "DSM_PredictedProb": "0.476"
   },
   {
     "NUTS_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,278"
+    "DSM_PredictedProb": "0.278"
   },
   {
     "NUTS_ID": "SI031",
     "NUTS_NAME": "Pomurska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,141"
+    "DSM_PredictedProb": "0.141"
   },
   {
     "NUTS_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,819"
+    "DSM_PredictedProb": "0.819"
   },
   {
     "NUTS_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,649"
+    "DSM_PredictedProb": "0.649"
   },
   {
     "NUTS_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,43"
+    "DSM_PredictedProb": "0.43"
   },
   {
     "NUTS_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,236"
+    "DSM_PredictedProb": "0.236"
   },
   {
     "NUTS_ID": "SI032",
     "NUTS_NAME": "Podravska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,112"
+    "DSM_PredictedProb": "0.112"
   },
   {
     "NUTS_ID": "SI033",
@@ -3453,31 +3453,31 @@
     "NUTS_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,612"
+    "DSM_PredictedProb": "0.612"
   },
   {
     "NUTS_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,328"
+    "DSM_PredictedProb": "0.328"
   },
   {
     "NUTS_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,131"
+    "DSM_PredictedProb": "0.131"
   },
   {
     "NUTS_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,044"
+    "DSM_PredictedProb": "0.044"
   },
   {
     "NUTS_ID": "SI034",
     "NUTS_NAME": "Savinjska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,014"
+    "DSM_PredictedProb": "0.014"
   },
   {
     "NUTS_ID": "SI035",
@@ -3489,121 +3489,121 @@
     "NUTS_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,85"
+    "DSM_PredictedProb": "0.85"
   },
   {
     "NUTS_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,65"
+    "DSM_PredictedProb": "0.65"
   },
   {
     "NUTS_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,38"
+    "DSM_PredictedProb": "0.38"
   },
   {
     "NUTS_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,168"
+    "DSM_PredictedProb": "0.168"
   },
   {
     "NUTS_ID": "SI036",
     "NUTS_NAME": "Posavska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,062"
+    "DSM_PredictedProb": "0.062"
   },
   {
     "NUTS_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,924"
+    "DSM_PredictedProb": "0.924"
   },
   {
     "NUTS_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,764"
+    "DSM_PredictedProb": "0.764"
   },
   {
     "NUTS_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,462"
+    "DSM_PredictedProb": "0.462"
   },
   {
     "NUTS_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,186"
+    "DSM_PredictedProb": "0.186"
   },
   {
     "NUTS_ID": "SI037",
     "NUTS_NAME": "Jugovzhodna Slovenija",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,057"
+    "DSM_PredictedProb": "0.057"
   },
   {
     "NUTS_ID": "SI038",
     "NUTS_NAME": "Primorsko-notranjska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,517"
+    "DSM_PredictedProb": "0.517"
   },
   {
     "NUTS_ID": "SI038",
     "NUTS_NAME": "Primorsko-notranjska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,157"
+    "DSM_PredictedProb": "0.157"
   },
   {
     "NUTS_ID": "SI038",
     "NUTS_NAME": "Primorsko-notranjska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,031"
+    "DSM_PredictedProb": "0.031"
   },
   {
     "NUTS_ID": "SI038",
     "NUTS_NAME": "Primorsko-notranjska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,006"
+    "DSM_PredictedProb": "0.006"
   },
   {
     "NUTS_ID": "SI038",
     "NUTS_NAME": "Primorsko-notranjska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,001"
+    "DSM_PredictedProb": "0.001"
   },
   {
     "NUTS_ID": "SI041",
     "NUTS_NAME": "Osrednjeslovenska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,112"
+    "DSM_PredictedProb": "0.112"
   },
   {
     "NUTS_ID": "SI041",
     "NUTS_NAME": "Osrednjeslovenska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,075"
+    "DSM_PredictedProb": "0.075"
   },
   {
     "NUTS_ID": "SI041",
     "NUTS_NAME": "Osrednjeslovenska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,05"
+    "DSM_PredictedProb": "0.05"
   },
   {
     "NUTS_ID": "SI041",
     "NUTS_NAME": "Osrednjeslovenska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,033"
+    "DSM_PredictedProb": "0.033"
   },
   {
     "NUTS_ID": "SI041",
     "NUTS_NAME": "Osrednjeslovenska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,022"
+    "DSM_PredictedProb": "0.022"
   },
   {
     "NUTS_ID": "SI042",
@@ -3615,60 +3615,60 @@
     "NUTS_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,733"
+    "DSM_PredictedProb": "0.733"
   },
   {
     "NUTS_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,543"
+    "DSM_PredictedProb": "0.543"
   },
   {
     "NUTS_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,339"
+    "DSM_PredictedProb": "0.339"
   },
   {
     "NUTS_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,182"
+    "DSM_PredictedProb": "0.182"
   },
   {
     "NUTS_ID": "SI043",
     "NUTS_NAME": "Goriska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,088"
+    "DSM_PredictedProb": "0.088"
   },
   {
     "NUTS_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "sma1": -4,
-    "DSM_PredictedProb": "0.,925"
+    "DSM_PredictedProb": "0.925"
   },
   {
     "NUTS_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "sma1": -3,
-    "DSM_PredictedProb": "0.,801"
+    "DSM_PredictedProb": "0.801"
   },
   {
     "NUTS_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "sma1": -2,
-    "DSM_PredictedProb": "0.,569"
+    "DSM_PredictedProb": "0.569"
   },
   {
     "NUTS_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "sma1": -1,
-    "DSM_PredictedProb": "0.,302"
+    "DSM_PredictedProb": "0.302"
   },
   {
     "NUTS_ID": "SI044",
     "NUTS_NAME": "Obalno-Kraska",
     "sma1": 0,
-    "DSM_PredictedProb": "0.,124"
+    "DSM_PredictedProb": "0.124"
   }
 ]
